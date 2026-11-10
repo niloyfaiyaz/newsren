@@ -1,0 +1,104 @@
+{
+  "method": "Exactly one guarded GET per actual candidate; short HTML event-context fragments, not complete pages; fresh evidence NOT original assessment packet",
+  "evidence": [
+    {
+      "url": "https://www.unesco.org/en/articles/education-age-ai-ministerial-statement-be-adopted-unescos-digital-learning-week",
+      "headline": "Education in the age of AI: Ministerial statement to be adopted at UNESCO's Digital Learning Week",
+      "publicationDate": "2026-08-25",
+      "trace": [
+        {
+          "stage": "dns",
+          "host": "www.unesco.org",
+          "reason": "public-ipv4-pinned",
+          "publicA": 1,
+          "publicAAAA": 0
+        },
+        {
+          "stage": "response",
+          "host": "www.unesco.org",
+          "reason": "html-received",
+          "httpStatus": 200,
+          "contentTypeClass": "html",
+          "sha256": "8f624523f9eacc023e866b2ed9c6cc70cc5d346f6784c06abbf985d0acd2a56a",
+          "encoding": "gzip",
+          "encodedBytes": 16743,
+          "decodedBytes": 86238
+        },
+        {
+          "stage": "extraction",
+          "host": "www.unesco.org",
+          "reason": "ok",
+          "encoding": "gzip",
+          "encodedBytes": 16743,
+          "decodedBytes": 86238
+        }
+      ],
+      "fragments": [
+        "<h1 class=\"title article-title\">Education in the age of AI: Ministerial statement to be adopted at UNESCO's Digital Learning Week</h1>",
+        "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\",\"@graph\": [{\"@type\": \"Article\",\"headline\": \"Education in the age of AI: Ministerial statement to be adopted at UNESCO\\u0027s Digital Learning Week\",\"description\": \"From 8 to 11 September, UNESCO will bring together over 25 ministers of education, high-level experts, representatives of the tech industry, educators and students from around the world in Paris to discuss the latest developments and perspectives in the field of artificial intelligence (AI) and education. The event will mark the adoption of a joint Ministerial statement on sustaining education as a common good in the age of AI.\",\"image\": {\"@type\": \"ImageObject\",\"",
+        "<span>25 August 2026</span>",
+        "<span>2 September 2026</span>",
+        "<span lang=\"EN-GB\">Digital Learning Week 2026</span>",
+        "<div class=\"h5\"> World Arabic Language Day 2026</div>",
+        "<div class=\"sous-titre small text-gray4 mt-3\">18 December 2026</div>",
+        "<div class=\"sous-titre small text-gray4 mt-3\">16 December 2026</div>",
+        "<div class=\"sous-titre small text-gray4 mt-3\">23 October 2026</div>",
+        "<div class=\"sous-titre small text-gray4 mt-3\">22 October 2026</div>",
+        "<div class=\"sous-titre small text-gray4 mt-3\">21 October 2026</div>",
+        "<div class=\"h5\"> eDNA Expeditions 2026-2028: Towards a global biomolecular marine observation network</div>",
+        "<div class=\"sous-titre small text-gray4 mt-3\">21 October 2026</div>"
+      ]
+    },
+    {
+      "url": "https://hai.stanford.edu/events/ai-education-summit-2026",
+      "headline": "AI+Education Summit 2026",
+      "publicationDate": null,
+      "trace": [
+        {
+          "stage": "dns",
+          "host": "hai.stanford.edu",
+          "reason": "public-ipv4-pinned",
+          "publicA": 4,
+          "publicAAAA": 0
+        },
+        {
+          "stage": "response",
+          "host": "hai.stanford.edu",
+          "reason": "html-received",
+          "httpStatus": 200,
+          "contentTypeClass": "html",
+          "sha256": "44c15a0dc6274cbb693a8741933e02fda57c5c523ac64a3b120d7be758c2ba49",
+          "encoding": "gzip",
+          "encodedBytes": 58353,
+          "decodedBytes": 261255
+        },
+        {
+          "stage": "extraction",
+          "host": "hai.stanford.edu",
+          "reason": "ok",
+          "encoding": "gzip",
+          "encodedBytes": 58353,
+          "decodedBytes": 261255
+        }
+      ],
+      "fragments": [
+        "<h1 class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_h2__eto5R DetailHero_heading___n6PP\">AI+Education Summit 2026</h1>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_tag__a9OfB\">Wednesday, February 11, 2026 8:00 AM - 5:00 PM PST/PDT</div>",
+        "<span>Mar 11, 2026</span>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">2026</div>",
+        "<span>Nov 04, 2026</span>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">November</div>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">2026</div>",
+        "<span>Nov 04, 2026</span>",
+        "<span>Oct 26, 2026</span>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">October</div>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">2026</div>",
+        "<span>Oct 26, 2026</span>",
+        "<span>Oct 28, 2026</span>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">October</div>",
+        "<div class=\"__variable_3e54d8 __variable_665e44 __variable_d030ea __variable_85618c __variable_c22a57 __variable_34b7dd __variable_fba4da __variable_41e36d __variable_4f6f0a __variable_ee2a64 __variable_f62fde __variable_00b3b7 __variable_d9745e __variable_3950a3 __variable_373b5b __variable_0ab041 __variable_723d8f Typography_root__6fjn5 Typography_mono-small__Avr8B Typography_uppercase__a7NmA\">2026</div>",
+        "<span>Oct 28, 2026</span>"
+      ]
+    }
+  ]
+}

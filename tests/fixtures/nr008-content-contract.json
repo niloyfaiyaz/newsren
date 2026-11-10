@@ -1,0 +1,272 @@
+{
+  "method": "Cycle2 manually inspected exact premise choices; these fixed passage expectations and mutation tests detect mapping drift, not general semantic entailment.",
+  "dimensions": [
+    "Communication access",
+    "Civic mobilisation",
+    "Platform accountability",
+    "Political misinformation",
+    "Identification and surveillance",
+    "Corrective action and its limits"
+  ],
+  "authored": [
+    {
+      "id": "nr008-zello",
+      "gistHash": "49b4541998d95ee35ac394f95b8121720cc7f6a2574ffd758116b8b428bdff49",
+      "hookHash": "2da9871271ea9bf9b3cd30b00a6304dd7cb724c31f733855bdf1a4f011e605c5",
+      "analysisHash": "f7d9084ce26821bb70e5d35453f3d8869f02f7c44e9acbcfd349487f8a98afe8"
+    },
+    {
+      "id": "nr008-whatsapp",
+      "gistHash": "786721748bd447a4d5b5caa10018cbee893ec0347656802c0d939e836a823b4b",
+      "hookHash": "ea558669e02ddc4ce2aec95274021e8cc2e0bdc093eb4e1182f1949481e5039d",
+      "analysisHash": "d921d394b866d241944b334e020f6c3ef8def9a8382e1cf0b7d0ec78f58bd4e9"
+    },
+    {
+      "id": "nr008-surveillance",
+      "gistHash": "09f9907ebadd14329eff7a9a00e03baedf7a35f2bd6b3e596175c99a50a57fc9",
+      "hookHash": "60d3aba2a8cbedf5881fa887e2b80e8ad85ecc4889a6afe8081ac250b752ca7f",
+      "analysisHash": "260062e338211d2eba44a6f7cad438d25d0f6d59cc57c0b3a5c1b83ef33cf4f6"
+    },
+    {
+      "id": "nr008-platforms",
+      "gistHash": "834b003cbb132622075d77a07b79c3c4a3fa534d0298c29d94f674d2c4dfe723",
+      "hookHash": "5125bdbea19acc56cb1e19f305f908470fd393bdc038e3481fa9e0d454df7255",
+      "analysisHash": "89cde282d09d9847bbc661a7d4243a259c9c6b1ec9a669e4410c08240b3e38d0"
+    },
+    {
+      "id": "nr008-deepfake",
+      "gistHash": "9f97f444d1a08dc3d146023334e759f65c903dea1a189fe180dad9d06d651e3f",
+      "hookHash": "9d2648b25f73a1c511e8d256d86cf1ca013116b55a86f4ab44c0bc4a49eee6bf",
+      "analysisHash": "76ef2f3c05ff1851c061e2c7befca126c9124f82286ea6fd54055a1c19204db2"
+    },
+    {
+      "id": "nr008-oversight",
+      "gistHash": "50951346a2a8c39ebcf64103244a91806ad5a685ae387caff5cf01536863829f",
+      "hookHash": "c3531d65a22a9290a6156752eeac7feaa17bb00db1f0996143597e9ac37a938a",
+      "analysisHash": "a802a4ff548a199b2757b0115d9a23e0a47b67f5c7c590780dfd4b46794c119e"
+    }
+  ],
+  "roles": [
+    {
+      "articleId": "nr008-zello",
+      "label": "Communication access",
+      "claimHash": "7ccbc43b58a65fde13e2294df9d23985ac3354ca53a1f29752cf97f297c0bcaa"
+    },
+    {
+      "articleId": "nr008-zello",
+      "label": "Civic mobilisation",
+      "claimHash": "2811b21185dea315999d3a788890385f5764b52f689e23ff8edc61686f2297f4"
+    },
+    {
+      "articleId": "nr008-whatsapp",
+      "label": "Platform accountability",
+      "claimHash": "955b925f656fde79ed1bba8bf81e0825b484b1ae276cc0bd347752430da289a7"
+    },
+    {
+      "articleId": "nr008-surveillance",
+      "label": "Identification and surveillance",
+      "claimHash": "395de1dfce024369004ff5af0c2533f34edd811d03ec8562c4b45647a484fc4d"
+    },
+    {
+      "articleId": "nr008-platforms",
+      "label": "Platform accountability",
+      "claimHash": "c636d1209054a5cd732e7377977fdb0b0596a9e62f3f84fcccfeaea13bfde944"
+    },
+    {
+      "articleId": "nr008-deepfake",
+      "label": "Political misinformation",
+      "claimHash": "ab56408887d4882670a24287b7436d2bc48d8d4f66399b23711ce4f2fabc4ac0"
+    },
+    {
+      "articleId": "nr008-oversight",
+      "label": "Corrective action and its limits",
+      "claimHash": "55f47cff9a7b9f1d7c74bb32f13298bb70f4860d2a0448bd28286a911391f1bb"
+    }
+  ],
+  "edges": [
+    {
+      "id": "nr008-edge-mobilise-identify",
+      "explanationHash": "c55e692425f9ea787806b5bd01a9bca980cacacab3679ed43eee595bf37c3378",
+      "limitsHash": "591582e9617afd0409cfb67b57687fedb40c7332a87e1e768fe3a5b2b1c2ddd0"
+    },
+    {
+      "id": "nr008-edge-organise-scrutinise",
+      "explanationHash": "8416d80bf9838920dce0416c58d76163e4cdf9c05283fc63ae6b4ee9d8463a62",
+      "limitsHash": "3b1b6de05608a080fe3ba20814c4ca2e0797afa8395b97ebd1813555489999f6"
+    },
+    {
+      "id": "nr008-edge-private-public",
+      "explanationHash": "fa6ef27c0eb09656434e35618b29d78454b8a25be9ebd50d8739a9b90ea2f7fc",
+      "limitsHash": "68f6936a078a31ae31de331a7e90040031d22547181dcae11e74d28220868b19"
+    },
+    {
+      "id": "nr008-edge-arena-content",
+      "explanationHash": "522b0c9013e65f5e23edea2e1e57de6b692b0b819b3927e74e7a798b7ed53d40",
+      "limitsHash": "6208ce8573ae7c33afc26c8d533845802f842f49c60bc63020002cf4dbeaa4ad"
+    },
+    {
+      "id": "nr008-edge-harm-remedy",
+      "explanationHash": "bf983ad2cbde06b26184750e02f598836cc41736aa66f1c74028ac205c5a36ba",
+      "limitsHash": "1be8ed8dea60922677305f5d6f2bc7c9afc86009cc299061e3c75ff5c982a2cf"
+    }
+  ],
+  "premiseMarkers": {
+    "nr008-zello": [
+      "Herman Manyora",
+      "walkie-talkies",
+      "Rest of World"
+    ],
+    "nr008-whatsapp": [
+      "thousands of messages",
+      "public scrutiny",
+      "WhatsApp"
+    ],
+    "nr008-surveillance": [
+      "photo",
+      "detained",
+      "Ukraine"
+    ],
+    "nr008-platforms": [
+      "Critics",
+      "censoring",
+      "playing field"
+    ],
+    "nr008-deepfake": [
+      "fake",
+      "thousands",
+      "Motley Broom"
+    ],
+    "nr008-oversight": [
+      "ordered",
+      "should have been removed",
+      "inadequate",
+      "oversight board"
+    ]
+  },
+  "primaryPremises": {
+    "nr008-zello": "According to Herman Manyora, a political analyst and lecturer at the University of Nairobi, mobilization had always been the greatest challenge in organizing previous protests in Kenya. The ability to turn their “phones into walkie-talkies” made the difference for protesters, he told Rest of World.",
+    "nr008-whatsapp": "An analysis of thousands of messages reveals how India’s ruling party uses the app to campaign free from public scrutiny.",
+    "nr008-surveillance": "The officers looked back and forth between Zhivtsova and an image on their smartphones. They seemed unsure if they had the right person. Catching a glimpse of the screen, Zhivtsova recognized a photo of herself taken the month before, when she was detained for protesting Russia’s war in Ukraine. Her hair looked different: In the photo it was faded blue, but that day it was back to a gleaming teal. “I do tend to change my hair color a lot,” Zhivtsova told Rest of World.",
+    "nr008-platforms": "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro.",
+    "nr008-deepfake": "An image of Bianca Motley Broom, the mayor of College Park, Georgia, kissing a man who was not her husband in a bar spread far and wide on Facebook. The fact that it was fake is spreading faster, now, but only after it had been seen by thousands of people.",
+    "nr008-oversight": "Meta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a young Muslim woman from Facebook and do more to tackle AI-generated fake imagery.\n\nA fake video showing a Labour party councillor in Scotland making inflammatory comments about refugees should not have been left up by Facebook, the board said. It also ruled that an AI-generated video of a Muslim campaign volunteer should have been removed after it falsely depicted her offering health advice while carrying out absurd exercises or eating junk food.\n\nThe board said Meta’s safeguards were “consistently and fundamentally inadequate” to address the rapid rise of AI deepfakes."
+  },
+  "claimPremises": {
+    "nr008-zello": [
+      "According to Herman Manyora, a political analyst and lecturer at the University of Nairobi, mobilization had always been the greatest challenge in organizing previous protests in Kenya. The ability to turn their “phones into walkie-talkies” made the difference for protesters, he told Rest of World."
+    ],
+    "nr008-whatsapp": [
+      "An analysis of thousands of messages reveals how India’s ruling party uses the app to campaign free from public scrutiny.",
+      "Inside the BJP’s WhatsApp machine"
+    ],
+    "nr008-surveillance": [
+      "The officers looked back and forth between Zhivtsova and an image on their smartphones. They seemed unsure if they had the right person. Catching a glimpse of the screen, Zhivtsova recognized a photo of herself taken the month before, when she was detained for protesting Russia’s war in Ukraine. Her hair looked different: In the photo it was faded blue, but that day it was back to a gleaming teal. “I do tend to change my hair color a lot,” Zhivtsova told Rest of World."
+    ],
+    "nr008-platforms": [
+      "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro."
+    ],
+    "nr008-deepfake": [
+      "An image of Bianca Motley Broom, the mayor of College Park, Georgia, kissing a man who was not her husband in a bar spread far and wide on Facebook. The fact that it was fake is spreading faster, now, but only after it had been seen by thousands of people."
+    ],
+    "nr008-oversight": [
+      "Meta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a young Muslim woman from Facebook and do more to tackle AI-generated fake imagery.\n\nA fake video showing a Labour party councillor in Scotland making inflammatory comments about refugees should not have been left up by Facebook, the board said. It also ruled that an AI-generated video of a Muslim campaign volunteer should have been removed after it falsely depicted her offering health advice while carrying out absurd exercises or eating junk food.\n\nThe board said Meta’s safeguards were “consistently and fundamentally inadequate” to address the rapid rise of AI deepfakes.",
+      "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards"
+    ]
+  },
+  "rolePremises": [
+    {
+      "articleId": "nr008-zello",
+      "quotes": [
+        "According to Herman Manyora, a political analyst and lecturer at the University of Nairobi, mobilization had always been the greatest challenge in organizing previous protests in Kenya. The ability to turn their “phones into walkie-talkies” made the difference for protesters, he told Rest of World."
+      ],
+      "label": "Communication access"
+    },
+    {
+      "articleId": "nr008-zello",
+      "quotes": [
+        "According to Herman Manyora, a political analyst and lecturer at the University of Nairobi, mobilization had always been the greatest challenge in organizing previous protests in Kenya. The ability to turn their “phones into walkie-talkies” made the difference for protesters, he told Rest of World."
+      ],
+      "label": "Civic mobilisation"
+    },
+    {
+      "articleId": "nr008-whatsapp",
+      "quotes": [
+        "An analysis of thousands of messages reveals how India’s ruling party uses the app to campaign free from public scrutiny."
+      ],
+      "label": "Platform accountability"
+    },
+    {
+      "articleId": "nr008-deepfake",
+      "quotes": [
+        "An image of Bianca Motley Broom, the mayor of College Park, Georgia, kissing a man who was not her husband in a bar spread far and wide on Facebook. The fact that it was fake is spreading faster, now, but only after it had been seen by thousands of people."
+      ],
+      "label": "Political misinformation"
+    },
+    {
+      "articleId": "nr008-platforms",
+      "quotes": [
+        "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro.",
+        "The race is expected to be tight. But in its final days, questions have festered over whether the digital arena has been a level playing field for the two candidates."
+      ],
+      "label": "Platform accountability"
+    },
+    {
+      "articleId": "nr008-surveillance",
+      "quotes": [
+        "The officers looked back and forth between Zhivtsova and an image on their smartphones. They seemed unsure if they had the right person. Catching a glimpse of the screen, Zhivtsova recognized a photo of herself taken the month before, when she was detained for protesting Russia’s war in Ukraine. Her hair looked different: In the photo it was faded blue, but that day it was back to a gleaming teal. “I do tend to change my hair color a lot,” Zhivtsova told Rest of World."
+      ],
+      "label": "Identification and surveillance"
+    },
+    {
+      "articleId": "nr008-oversight",
+      "quotes": [
+        "Meta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a young Muslim woman from Facebook and do more to tackle AI-generated fake imagery.\n\nA fake video showing a Labour party councillor in Scotland making inflammatory comments about refugees should not have been left up by Facebook, the board said. It also ruled that an AI-generated video of a Muslim campaign volunteer should have been removed after it falsely depicted her offering health advice while carrying out absurd exercises or eating junk food.\n\nThe board said Meta’s safeguards were “consistently and fundamentally inadequate” to address the rapid rise of AI deepfakes.",
+        "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards"
+      ],
+      "label": "Corrective action and its limits"
+    }
+  ],
+  "edgePremises": {
+    "nr008-edge-mobilise-identify": [
+      "According to Herman Manyora, a political analyst and lecturer at the University of Nairobi, mobilization had always been the greatest challenge in organizing previous protests in Kenya. The ability to turn their “phones into walkie-talkies” made the difference for protesters, he told Rest of World.",
+      "Kenya’s biggest protest in recent history played out on a walkie-talkie app",
+      "The officers looked back and forth between Zhivtsova and an image on their smartphones. They seemed unsure if they had the right person. Catching a glimpse of the screen, Zhivtsova recognized a photo of herself taken the month before, when she was detained for protesting Russia’s war in Ukraine. Her hair looked different: In the photo it was faded blue, but that day it was back to a gleaming teal. “I do tend to change my hair color a lot,” Zhivtsova told Rest of World."
+    ],
+    "nr008-edge-organise-scrutinise": [
+      "According to Herman Manyora, a political analyst and lecturer at the University of Nairobi, mobilization had always been the greatest challenge in organizing previous protests in Kenya. The ability to turn their “phones into walkie-talkies” made the difference for protesters, he told Rest of World.",
+      "Kenya’s biggest protest in recent history played out on a walkie-talkie app",
+      "An analysis of thousands of messages reveals how India’s ruling party uses the app to campaign free from public scrutiny.",
+      "Inside the BJP’s WhatsApp machine"
+    ],
+    "nr008-edge-private-public": [
+      "An analysis of thousands of messages reveals how India’s ruling party uses the app to campaign free from public scrutiny.",
+      "Inside the BJP’s WhatsApp machine",
+      "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro.",
+      "The race is expected to be tight. But in its final days, questions have festered over whether the digital arena has been a level playing field for the two candidates.",
+      "Why social media has become an election issue in Brazil’s presidential race"
+    ],
+    "nr008-edge-arena-content": [
+      "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro.",
+      "The race is expected to be tight. But in its final days, questions have festered over whether the digital arena has been a level playing field for the two candidates.",
+      "Why social media has become an election issue in Brazil’s presidential race",
+      "An image of Bianca Motley Broom, the mayor of College Park, Georgia, kissing a man who was not her husband in a bar spread far and wide on Facebook. The fact that it was fake is spreading faster, now, but only after it had been seen by thousands of people.",
+      "A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?"
+    ],
+    "nr008-edge-harm-remedy": [
+      "An image of Bianca Motley Broom, the mayor of College Park, Georgia, kissing a man who was not her husband in a bar spread far and wide on Facebook. The fact that it was fake is spreading faster, now, but only after it had been seen by thousands of people.",
+      "A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?",
+      "Meta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a young Muslim woman from Facebook and do more to tackle AI-generated fake imagery.",
+      "A fake video showing a Labour party councillor in Scotland making inflammatory comments about refugees should not have been left up by Facebook, the board said. It also ruled that an AI-generated video of a Muslim campaign volunteer should have been removed after it falsely depicted her offering health advice while carrying out absurd exercises or eating junk food.",
+      "The board said Meta’s safeguards were “consistently and fundamentally inadequate” to address the rapid rise of AI deepfakes.",
+      "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards"
+    ]
+  },
+  "independentReporting": {
+    "nr008-zello-source": true,
+    "nr008-whatsapp-source": true,
+    "nr008-surveillance-source": true,
+    "nr008-platforms-source": false,
+    "nr008-deepfake-source": false,
+    "nr008-oversight-source": false
+  }
+}

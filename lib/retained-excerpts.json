@@ -1,0 +1,1434 @@
+{
+  "unesco-guidance": {
+    "text": "Publicly available generative AI (GenAI) tools are rapidly emerging, and the release of iterative versions is outpacing the adaptation of national regulatory frameworks. The absence of national regulations on GenAI in most countries leaves the data privacy of users unprotected and educational institutions largely unprepared to validate the tools. Based on a humanistic vision, the Guidance proposes key steps to the regulation of GenAI tool, including mandating the protection of data privacy, and setting an age limit for the independent conversations with GenAI platforms. To guide the proper use of the tools in education and research, this Guidance proposes a human-agent and age-appropriate approach to the ethical validation and pedagogical design processes.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "03057c12f0ea94ccc851d227fc7c7d2d9a8f0a836842f4d6cec4d7f104ffd2a0",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Publicly available generative AI (GenAI) tools are rapidly emerging, and the release of iterative versions is outpacing the adaptation of national regulatory frameworks. The absence of national regulations on GenAI in most countries leaves the data privacy of users unprotected and educational institutions largely unprepared to validate the tools. Based on a humanistic vision, the Guidance proposes key steps to the regulation of GenAI tool, including mandating the protection of data privacy, and setting an age limit for the independent conversations with GenAI platforms. To guide the proper use of the tools in education and research, this Guidance proposes a human-agent and age-appropriate approach to the ethical validation and pedagogical design processes."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "ai-competencies": {
+    "text": "These frameworks aim to guide countries in supporting students and teachers to understand the potential as well as risks of AI in order to engage with it in a safe, ethical and responsible manner in education and beyond. They are launched on the occasion of Digital Learning Week 2024 , one of UNESCO’s annual flagship events. Here’s what you need to know about UNESCO’s latest initiatives to integrate AI competencies in education.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "1ab22e6817ed8b719cdd4a0d37f2142b87b7e0fe74bffb374cb94614754d9fde",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "These frameworks aim to guide countries in supporting students and teachers to understand the potential as well as risks of AI in order to engage with it in a safe, ethical and responsible manner in education and beyond. They are launched on the occasion of Digital Learning Week 2024 , one of UNESCO’s annual flagship events. Here’s what you need to know about UNESCO’s latest initiatives to integrate AI competencies in education."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "uk-education-guidance": {
+    "text": "The Department for Education’s (DfE) position on the use of generative AI in the education sector. Added summary information about Ofsted’s new guidance on looking at AI during inspection and Ofsted’s research findings into using AI.",
+    "provenance": "Sequential bounded public GET; headline from h1. Prior checked publication date retained; date not freshly extracted. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "a565c0ca7789ad0952ac8cbe0f629e6f59a15edd5eb8db82f8888e2539265f03",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The Department for Education’s (DfE) position on the use of generative AI in the education sector. Added summary information about Ofsted’s new guidance on looking at AI during inspection and Ofsted’s research findings into using AI."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "detector-bias": {
+    "text": "Don’t put faith in detectors that are “unreliable and easily gamed,” says scholar. In the wake of the high-profile launch of ChatGPT, no fewer than seven developers or companies have countered with AI detectors. That is, AI they say is able to tell when content was written by another AI. These new algorithms are pitched to educators, journalists, and others as tools to flag cheating, plagiarism, and mis- or disinformation.",
+    "provenance": "Sequential bounded public GET; headline from h1. Prior checked publication date retained; date not freshly extracted. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "9b1ca19c1a0576c05326c8de984519e1a4ea6f417071bb3d7bda7fb304990de0",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Don’t put faith in detectors that are “unreliable and easily gamed,” says scholar. In the wake of the high-profile launch of ChatGPT, no fewer than seven developers or companies have countered with AI detectors. That is, AI they say is able to tell when content was written by another AI. These new algorithms are pitched to educators, journalists, and others as tools to flag cheating, plagiarism, and mis- or disinformation."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "gpt4-experiments": {
+    "text": "We report on our investigation of an early version of GPT-4, when it was still in active development by OpenAI.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication metadata checked; evidence excerpt from prior checked archive. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "b8e062446cdaeac6ab77d2f1e749b99c7d324648841d16e02bde320ae9c8ac7b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "We report on our investigation of an early version of GPT-4, when it was still in active development by OpenAI."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-18": {
+    "text": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-19 pandemic has highlighted the urgent need for timely and reliable data to drive strategic health action. Too many countries still lack both the infrastructure to routinely gather health data and the analytical capacity to use these data for effective health actions and emergency response. “Countries must be able to measure progress to make progress,” said WHO Director-General Dr Tedros Adhanom Ghebreyesus. “Particularly during COVID-19, reliable data is the best way to coordinate response efforts and improve health in all areas.”",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "782d31a1b3b4d807b734b973456615f8fce99691334c1862f1703f344986e354",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technical Package. The COVID-19 pandemic has highlighted the urgent need for timely and reliable data to drive strategic health action. Too many countries still lack both the infrastructure to routinely gather health data and the analytical capacity to use these data for effective health actions and emergency response. “Countries must be able to measure progress to make progress,” said WHO Director-General Dr Tedros Adhanom Ghebreyesus. “Particularly during COVID-19, reliable data is the best way to coordinate response efforts and improve health in all areas.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-19": {
+    "text": "As a founding member of the World Health Organization (WHO), the United States of America has contributed significantly to many of WHO’s greatest achievements, including the eradication of smallpox, and progress against many other public health threats including polio, HIV, Ebola, influenza, tuberculosis, malaria, neglected tropical diseases, antimicrobial resistance, food safety and more. WHO therefore regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "ce56f6e4150d5fc3f0070ff452033d4409d65457fafadc40bf1a4d0c20925f07",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "As a founding member of the World Health Organization (WHO), the United States of America has contributed significantly to many of WHO’s greatest achievements, including the eradication of smallpox, and progress against many other public health threats including polio, HIV, Ebola, influenza, tuberculosis, malaria, neglected tropical diseases, antimicrobial resistance, food safety and more. WHO therefore regrets the United States’ notification of withdrawal from WHO – a decision that makes both the United States and the world less safe. The notification of withdrawal raises issues that will be considered by the WHO Executive Board at its regular meeting starting on 2 February and by the World Health Assembly at its annual meeting in May 2026."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-20": {
+    "text": "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002. “WHO congratulates the people and government of Timor-Leste on this significant milestone,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Timor-Leste’s success proves that malaria can be stopped in its tracks when strong political will, smart interventions, sustained domestic and external investment and dedicated health workers unite.”",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "720f97d496159d6d5cf560e9ba655d71c34efe5ec836b48e9e68c2d1f342df27",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The World Health Organization (WHO) has certified Timor-Leste as malaria-free, a remarkable achievement for a country that prioritized the disease and embarked on a concerted, nation-wide response shortly after gaining independence in 2002. “WHO congratulates the people and government of Timor-Leste on this significant milestone,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Timor-Leste’s success proves that malaria can be stopped in its tracks when strong political will, smart interventions, sustained domestic and external investment and dedicated health workers unite.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-21": {
+    "text": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landscape. It further underscores the African Union’s leadership in fostering collective action, inclusive partnerships, and regional resilience, and positions the Department of Health, Humanitarian Affairs, and Social Development of the AU Commission at the heart of the continent’s health policy implementation efforts.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "ae73f3c7c896e94900aa74b0bb9706ef779b02846737db3d64d10398844f6436",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landscape. It further underscores the African Union’s leadership in fostering collective action, inclusive partnerships, and regional resilience, and positions the Department of Health, Humanitarian Affairs, and Social Development of the AU Commission at the heart of the continent’s health policy implementation efforts."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-22": {
+    "text": "On 6 March 2025, Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Luxembourg and signed an agreement for a €10 million grant to strengthen public health across Lebanon. The initiative will re-establish Lebanon's Central Public Health Laboratory and prioritize medication provision and healthcare support to over 50 000 people with chronic diseases like diabetes, cardiovascular issues, and cancer.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "14ecc06ea0ee8dbcc94c84f5359818a6a42b5628e955c2c30f1d43220c1ca23e",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "On 6 March 2025, Dr Tedros Adhanom Ghebreyesus, Director-General of the World Health Organization (WHO), and Thomas Östros, Vice-President of the European Investment Bank (EIB Global), met at the EIB Group Forum in Luxembourg and signed an agreement for a €10 million grant to strengthen public health across Lebanon. The initiative will re-establish Lebanon's Central Public Health Laboratory and prioritize medication provision and healthcare support to over 50 000 people with chronic diseases like diabetes, cardiovascular issues, and cancer."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-23": {
+    "text": "In a three-day strategic dialogue, Belgium and WHO reviewed progress in their longstanding partnership, and agreed to further boost their collaboration on universal health coverage, health-systems strengthening and equitable access to essential vaccines, medicines and health technologies. The Belgian delegation – headed by H.E. Christophe Payot, Ambassador of Belgium to the United Nations and other international organizations in Geneva – discussed issues of strategic importance, exchanged views on how to smoothly align WHO strategic directions and Belgium's development cooperation priorities in the context of an evolving global health landscape.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "4a3e9d3e88c1cb29219b511713ece44e9057de016a9d4ae70c738b4d6dec87e5",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "In a three-day strategic dialogue, Belgium and WHO reviewed progress in their longstanding partnership, and agreed to further boost their collaboration on universal health coverage, health-systems strengthening and equitable access to essential vaccines, medicines and health technologies. The Belgian delegation – headed by H.E. Christophe Payot, Ambassador of Belgium to the United Nations and other international organizations in Geneva – discussed issues of strategic importance, exchanged views on how to smoothly align WHO strategic directions and Belgium's development cooperation priorities in the context of an evolving global health landscape."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-24": {
+    "text": "WHO and Switzerland have announced the renewal of their cooperation strategy for the period 2024-2028. In 2013, Switzerland became the first high-income country in the WHO European Region to pilot a cooperation strategy with WHO (hereafter referred to as the WHO-Switzerland Cooperation Strategy). In 2022, WHO and Switzerland jointly decided to update and renew this cooperation strategy, which was done on 4 March 2025 at the Regional Office of the WHO in Copenhagen, Denmark.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "bebd1aca36a52aa13c9b1605a2c399017c96649710ba150b6180f7576bcf5195",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "WHO and Switzerland have announced the renewal of their cooperation strategy for the period 2024-2028. In 2013, Switzerland became the first high-income country in the WHO European Region to pilot a cooperation strategy with WHO (hereafter referred to as the WHO-Switzerland Cooperation Strategy). In 2022, WHO and Switzerland jointly decided to update and renew this cooperation strategy, which was done on 4 March 2025 at the Regional Office of the WHO in Copenhagen, Denmark."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit trailing navigation text."
+    ]
+  },
+  "source-25": {
+    "text": "The Riyadh International Humanitarian Forum on 24-25 February 2025 brought together global partners from the humanitarian sector to discuss urgent health and humanitarian issues. It focused on advocacy for the survival, health diplomacy , well-being, and dignity of people affected by crises, as well as the security of aid workers. The forum, marking the 10th anniversary of the King Salman Humanitarian Aid and Relief Centre (KSRelief), witnessed key agreements and pledges aimed at addressing ongoing humanitarian challenges in the Middle East and beyond.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "15239af115ec8aab5778d5b5ea8149a963faa9fa410fd8af147dc05cc7d864d6",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The Riyadh International Humanitarian Forum on 24-25 February 2025 brought together global partners from the humanitarian sector to discuss urgent health and humanitarian issues. It focused on advocacy for the survival, health diplomacy , well-being, and dignity of people affected by crises, as well as the security of aid workers. The forum, marking the 10th anniversary of the King Salman Humanitarian Aid and Relief Centre (KSRelief), witnessed key agreements and pledges aimed at addressing ongoing humanitarian challenges in the Middle East and beyond."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit trailing photograph caption naming signatories."
+    ]
+  },
+  "source-26": {
+    "text": "Geneva 17 October 2024 – This afternoon, His Excellency Mr Jérôme Bonnafont, Permanent Representative of France to the United Nations in Geneva, and WHO Director-General Dr Tedros Adhanom Ghebreyesus met in the WHO headquarters for the signing of seven contribution agreements. The contribution totalling €24 million comes through the Ministry of Europe & Foreign Affairs. It fits in the France–WHO Framework Agreement for 2020 to 2025, which provides both a strategic framework for engagement, aligned with WHO priorities, while providing legal, administrative and financial instruments for operationalizing collaboration.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "97be3d45d3936a407605185267e31cc828ebe32b5a5f6fe497763ea5af4f8318",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Geneva 17 October 2024 – This afternoon, His Excellency Mr Jérôme Bonnafont, Permanent Representative of France to the United Nations in Geneva, and WHO Director-General Dr Tedros Adhanom Ghebreyesus met in the WHO headquarters for the signing of seven contribution agreements. The contribution totalling €24 million comes through the Ministry of Europe & Foreign Affairs. It fits in the France–WHO Framework Agreement for 2020 to 2025, which provides both a strategic framework for engagement, aligned with WHO priorities, while providing legal, administrative and financial instruments for operationalizing collaboration."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-27": {
+    "text": "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitment to climate resilience and sustainable healthcare systems worldwide. This allocation supports WHO’s ongoing efforts to strengthen the Alliance for Transformative Action on Climate and Health Secretariat and advance climate change and health programmes globally.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "fe225c290d4368b3b6e092cbe2f0731ab0687d580013c6a2ec0ad54e6294cef8",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitment to climate resilience and sustainable healthcare systems worldwide. This allocation supports WHO’s ongoing efforts to strengthen the Alliance for Transformative Action on Climate and Health Secretariat and advance climate change and health programmes globally."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-28": {
+    "text": "The world has made major progress towards gender equality in education over the past decades, with as many girls as boys now enrolled in schools from pre-primary through to secondary education. However, too many girls still face barriers to accessing, completing and thriving in school. Gender equality is a global priority for UNESCO, and we are mobilized with governments and partners around the world to protect girls’ right to education and expand opportunities for all. The 2026 UNESCO Global Education Monitoring (GEM) Gender Report , published on the occasion of the International Day of the Girl Child (11 October), shows that countries around the world have made significant progress towards gender parity in education. Nepal closed a 33-percentage-point gap in lower secondary completion between girls and boys from 1990 to 2024.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "853322cdca8ad2245f260d9dc2f85eb6131728fc8309a1f008cbea2775017cac",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The world has made major progress towards gender equality in education over the past decades, with as many girls as boys now enrolled in schools from pre-primary through to secondary education. However, too many girls still face barriers to accessing, completing and thriving in school. Gender equality is a global priority for UNESCO, and we are mobilized with governments and partners around the world to protect girls’ right to education and expand opportunities for all. The 2026 UNESCO Global Education Monitoring (GEM) Gender Report , published on the occasion of the International Day of the Girl Child (11 October), shows that countries around the world have made significant progress towards gender parity in education. Nepal closed a 33-percentage-point gap in lower secondary completion between girls and boys from 1990 to 2024."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-29": {
+    "text": "Invited by UNESCO, Pope Leo XIV made his first visit to a UN agency outside Italy, 46 years after Pope John Paul II visited UNESCO on 2 June 1980. In his address to more than 1400 people, His Holiness reaffirmed the Holy See’s commitment to UNESCO’s founding mission, describing UNESCO as both an instrument and a forum in which humanity reflects on its history, its shared identity and its future.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "23eb7330231b2bb800723cd61de8cbc1307943ff7c83046066120cfc64cd954b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Invited by UNESCO, Pope Leo XIV made his first visit to a UN agency outside Italy, 46 years after Pope John Paul II visited UNESCO on 2 June 1980. In his address to more than 1400 people, His Holiness reaffirmed the Holy See’s commitment to UNESCO’s founding mission, describing UNESCO as both an instrument and a forum in which humanity reflects on its history, its shared identity and its future."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-38": {
+    "text": "The Alliance for Hydromet Development has concluded its 2026 Annual Meeting in Lagos, Nigeria, with a renewed commitment to coordinated investments, stronger national institutions and sustainable services that support economic development and climate resilience. Held under the theme “ Partnerships, Innovation and Sustainable Investment in Weather, Water and Climate Services ”, the meeting brought together governments, development and climate-finance institutions, National Meteorological and Hydrological Services (NMHSs), international and regional organizations, the private sector and other partners.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication metadata checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "8d2033a4d9f8634e897a9c7ad44cca5fb1bb3ea27052d5ab21bc7d8e246a2fc7",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The Alliance for Hydromet Development has concluded its 2026 Annual Meeting in Lagos, Nigeria, with a renewed commitment to coordinated investments, stronger national institutions and sustainable services that support economic development and climate resilience. Held under the theme “ Partnerships, Innovation and Sustainable Investment in Weather, Water and Climate Services ”, the meeting brought together governments, development and climate-finance institutions, National Meteorological and Hydrological Services (NMHSs), international and regional organizations, the private sector and other partners."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 't he' → 'the'."
+    ]
+  },
+  "source-39": {
+    "text": "WMO’s Commission for Weather, Climate, Hydrological, Marine and Related Environmental Services and Applications – SERCOM – is meeting to strengthen and fine-tune services that support decision-making in areas including agriculture, aviation, disaster risk reduction, health, renewable energy, shipping and water management. SERCOM is one of WMO’s main technical commissions and helps provide a bridge between observations, research, prediction systems and infrastructure on one side, and the decisions of governments, businesses, communities and individuals on the other.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication metadata checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "3428fae36bec450a9e30182af047e1a3ea490d044605b3a90917ba0d054d1a6b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "WMO’s Commission for Weather, Climate, Hydrological, Marine and Related Environmental Services and Applications – SERCOM – is meeting to strengthen and fine-tune services that support decision-making in areas including agriculture, aviation, disaster risk reduction, health, renewable energy, shipping and water management. SERCOM is one of WMO’s main technical commissions and helps provide a bridge between observations, research, prediction systems and infrastructure on one side, and the decisions of governments, businesses, communities and individuals on the other."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-40": {
+    "text": "The WMO Secretariat has received official notification from the Permanent Mission of the United States of America, as host country of the WMO Convention, that Grenada has deposited its instrument of accession to the Convention, with its membership to take effect from 18 October 2026. This means that WMO now has 194 Members, which include 188 Member States and 6 Member Territories.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication metadata checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "c2cbd8333670ea44152fde97b38661c8ac94f478ce2d3133e03d7a3a745a16d9",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The WMO Secretariat has received official notification from the Permanent Mission of the United States of America, as host country of the WMO Convention, that Grenada has deposited its instrument of accession to the Convention, with its membership to take effect from 18 October 2026. This means that WMO now has 194 Members, which include 188 Member States and 6 Member Territories."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-41": {
+    "text": "World Food Day takes place on 16 October against a backdrop of an intensifying El Niño which is driving significant shifts in rainfall patterns – from drought to deluge – and impacting agriculture, fisheries and food production. Farmers – just like energy and water managers, disaster responders and health professionals - are among the many who are asking how this climate phenomenon will affect them.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication metadata checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "902827e4c7128b7c10167053d9735246cabcad11530fb7331a8c64d5bd6d3eaf",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "World Food Day takes place on 16 October against a backdrop of an intensifying El Niño which is driving significant shifts in rainfall patterns – from drought to deluge – and impacting agriculture, fisheries and food production. Farmers – just like energy and water managers, disaster responders and health professionals - are among the many who are asking how this climate phenomenon will affect them."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-42": {
+    "text": "Nairobi, 21 October 2026 – With global temperature rise set to exceed 1.5°C above pre-industrial levels, urgent and stringent cuts to greenhouse emissions are needed to minimize the magnitude and duration of overshoot and return to 1.5°C by the end of the century, a new UNEP report finds. The Emissions Gap Report 2026: The Point of Return looks at a ‘lowest possible’ 1.5°C overshoot scenario, in which peak warming by around the middle of the century is limited to 1.7-1.8°C and global temperature rise is returned to or below 1.5°C by 2100, with about a 50 per cent chance.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication dateline checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "e1ad1c75ec5f6d3e71374ad1129d1adb4e26cf56c9e668c5086c4960cefa9355",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Nairobi, 21 October 2026 – With global temperature rise set to exceed 1.5°C above pre-industrial levels, urgent and stringent cuts to greenhouse emissions are needed to minimize the magnitude and duration of overshoot and return to 1.5°C by the end of the century, a new UNEP report finds. The Emissions Gap Report 2026: The Point of Return looks at a ‘lowest possible’ 1.5°C overshoot scenario, in which peak warming by around the middle of the century is limited to 1.7-1.8°C and global temperature rise is returned to or below 1.5°C by 2100, with about a 50 per cent chance."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-43": {
+    "text": "Dar es Salaam, 9 October 2026 - The Twelfth Conference of the Parties (COP12) to the Nairobi Convention concluded with 15 decisions aimed at accelerating action for the protection, management, and sustainable development of the Western Indian Ocean region.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication dateline checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "a356b89946214acea4741190c6c353d83ea57ab5ff054bad7a9c1f743ebf22f6",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Dar es Salaam, 9 October 2026 - The Twelfth Conference of the Parties (COP12) to the Nairobi Convention concluded with 15 decisions aimed at accelerating action for the protection, management, and sustainable development of the Western Indian Ocean region."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit incomplete conference-theme quotation; original closing punctuation not reconstructed."
+    ]
+  },
+  "source-44": {
+    "text": "Nairobi, 5 October 2026 — United Nations Environment Programme (UNEP) is inviting Member States to submit expressions of interest to host the global observance of World Environment Day in 2028 or 2029. World Environment Day: A legacy spanning more than 5 decades Observed annually on 5 June since 1973, World Environment Day is UNEP's flagship international day and one of the world's largest platforms for environmental outreach. Each year it brings governments, businesses, civil society, and communities together around the environmental issues that matter most — reaching millions of people around the world.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication dateline checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "9aa866212dd6656c5af2cad4e0e4ff6802ca3e71b4644bd629381e4c683cb4f0",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Nairobi, 5 October 2026 — United Nations Environment Programme (UNEP) is inviting Member States to submit expressions of interest to host the global observance of World Environment Day in 2028 or 2029. World Environment Day: A legacy spanning more than 5 decades Observed annually on 5 June since 1973, World Environment Day is UNEP's flagship international day and one of the world's largest platforms for environmental outreach. Each year it brings governments, businesses, civil society, and communities together around the environmental issues that matter most — reaching millions of people around the world."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-45": {
+    "text": "Saint-Louis, Senegal, 06 October 2026 – A new $US 78 million programme aims to restore 270,000 hectares of degraded land and improve the livelihoods of five million people across nine countries of the Great Green Wall. With funding support from the Global Environment Facility (GEF) and implementation support from the UN Environment Programme (UNEP), the initiative will support the regeneration of one of the world’s most climate-vulnerable regions. The initiative brings together nine national governments stretching from the Sahel to the Horn of Africa – Burkina Faso, Chad, Ethiopia, the Gambia, Mali, Mauritania, Niger, Nigeria, and Senegal – with UNEP, the West African Development Bank (BOAD), and the Pan-African Agency of the Great Green Wall.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication dateline checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "4f3d9607b12c0ba99530f45d7f082ae1161406f2a3a98a6c974affbf62310b50",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Saint-Louis, Senegal, 06 October 2026 – A new $US 78 million programme aims to restore 270,000 hectares of degraded land and improve the livelihoods of five million people across nine countries of the Great Green Wall. With funding support from the Global Environment Facility (GEF) and implementation support from the UN Environment Programme (UNEP), the initiative will support the regeneration of one of the world’s most climate-vulnerable regions. The initiative brings together nine national governments stretching from the Sahel to the Horn of Africa – Burkina Faso, Chad, Ethiopia, the Gambia, Mali, Mauritania, Niger, Nigeria, and Senegal – with UNEP, the West African Development Bank (BOAD), and the Pan-African Agency of the Great Green Wall."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-46": {
+    "text": "Singapore, 17 September 2026 – As extreme heat becomes one of the deadliest and fastest-growing climate risks worldwide, governments, cities, industry leaders and philanthropic foundations today announced a package of new measures to accelerate action on sustainable cooling and heat resilience; among these measures are the inaugural Cool Leaders award , a global Heat Resilience Roadmap, and a Nature for Cooling Challenge . Global demand for cooling is rising rapidly. By 2050, the number of air conditioners worldwide is expected to reach 5.6 billion, nearly three times today's levels, underscoring the need for cooling solutions that protect people from extreme heat without driving a surge in energy demand and greenhouse gas emissions.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication dateline checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "04e7867b85985b6727e978860b4db2979efbbfda2c2a6ac1f689e9aa6d067ab4",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Singapore, 17 September 2026 – As extreme heat becomes one of the deadliest and fastest-growing climate risks worldwide, governments, cities, industry leaders and philanthropic foundations today announced a package of new measures to accelerate action on sustainable cooling and heat resilience; among these measures are the inaugural Cool Leaders award , a global Heat Resilience Roadmap, and a Nature for Cooling Challenge . Global demand for cooling is rising rapidly. By 2050, the number of air conditioners worldwide is expected to reach 5.6 billion, nearly three times today's levels, underscoring the need for cooling solutions that protect people from extreme heat without driving a surge in energy demand and greenhouse gas emissions."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-50": {
+    "text": "Default overnight curfews and addictive features to be switched off automatically to protect 16 and 17-year-olds on social media Default overnight curfews from midnight to 6am will be switched on for 16 and 17-year-olds on social media apps, as the government takes further action to back parents and protect the next generation online.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "edc08054b5f3395e7d0c4303eb7e74a40a44e9260953cebd489881ae1142a0db",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Default overnight curfews and addictive features to be switched off automatically to protect 16 and 17-year-olds on social media Default overnight curfews from midnight to 6am will be switched on for 16 and 17-year-olds on social media apps, as the government takes further action to back parents and protect the next generation online."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-51": {
+    "text": "Seven NEDs (Non-Executive Directors) appointed to the Information Commission, supporting the move to a new board-led governance model later this year. Seven Non-Executive members have been appointed to the Information Commission. Later this year, the Commission will take over all the functions and responsibilities of the ICO to become the UK’s independent data protection regulator. The appointments form an important part of the transition to this new governance model, which gives the Information Commission collective responsibility for strategic leadership and decision-making.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "b3b8a6f2af39aab334e4285f5fbf50fcd7001b3c05d923541b7c76098a8fb131",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Seven NEDs (Non-Executive Directors) appointed to the Information Commission, supporting the move to a new board-led governance model later this year. Seven Non-Executive members have been appointed to the Information Commission. Later this year, the Commission will take over all the functions and responsibilities of the ICO to become the UK’s independent data protection regulator. The appointments form an important part of the transition to this new governance model, which gives the Information Commission collective responsibility for strategic leadership and decision-making."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-52": {
+    "text": "Applications open for the AI Upskilling Challenge Fund, inviting organisations to deliver innovative AI training to help Barnsley workers, businesses and residents build AI skills as part of the Barnsley Tech Town. The search is on for the country’s boldest and most creative organisations to help people and businesses in Barnsley gain the skills they need to make the most of AI.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "165824d2c4556f92f1c2444a4688a0dcec30de4bb378cf4a2d2b7a23325dffa9",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Applications open for the AI Upskilling Challenge Fund, inviting organisations to deliver innovative AI training to help Barnsley workers, businesses and residents build AI skills as part of the Barnsley Tech Town. The search is on for the country’s boldest and most creative organisations to help people and businesses in Barnsley gain the skills they need to make the most of AI."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-53": {
+    "text": "Life Sciences sector attracts over £3 billion in new public-private investment in 12 months, reflecting international confidence in UK science and innovation. Communities across the country are benefitting from new treatments and advances as a result of the government’s Life Sciences Sector Plan.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "60ffa3a18f04ee3292b855d0c90065bfecc765aaa18333d0a355f3470e080e63",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Life Sciences sector attracts over £3 billion in new public-private investment in 12 months, reflecting international confidence in UK science and innovation. Communities across the country are benefitting from new treatments and advances as a result of the government’s Life Sciences Sector Plan."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-54": {
+    "text": "50 UK Government-funded 4G masts have been switched on to boost signal in some of Scotland's hardest-to-reach communities.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "61ab6ae21631e6b00d3621dfc19fc65c7cc679072a26917dcc5c7e825e52457f",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "50 UK Government-funded 4G masts have been switched on to boost signal in some of Scotland's hardest-to-reach communities."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-55": {
+    "text": "More than 50 UK organisations back charter to deliver paid family leave and flexible working support for women in research. Paid family leave, flexible working support, and tougher action against workplace harassment form the basis of a new charter backing women working in research - putting an end to the choice of prioritising a career or family life.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "1610122d05aae4fb1f6e846ef4fafc064419d60c786f790f78bdc058fd167ded",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "More than 50 UK organisations back charter to deliver paid family leave and flexible working support for women in research. Paid family leave, flexible working support, and tougher action against workplace harassment form the basis of a new charter backing women working in research - putting an end to the choice of prioritising a career or family life."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-56": {
+    "text": "A landmark AI deal between the UK and Ukraine has been signed today as the two countries join forces to develop new military capabilities and the technology of the future. A landmark AI deal between the UK and Ukraine has been signed today as the two countries join forces to develop new military capabilities and the technology of the future.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "704cf6147d76b706b6ebf8550f5551cb5cde127923cdca6e5803e687847744d3",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "A landmark AI deal between the UK and Ukraine has been signed today as the two countries join forces to develop new military capabilities and the technology of the future. A landmark AI deal between the UK and Ukraine has been signed today as the two countries join forces to develop new military capabilities and the technology of the future."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-57": {
+    "text": "This report was issued in August 2026 and covers the time period 1 July 2026 to 31 July 2026 inclusive. The National Space Operations Centre is led by the UK Space Agency and UK Space Command in partnership with the Met Office.",
+    "provenance": "Sequential bounded public GET; headline from h1. Date not verified in this collection pass. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "4b853e9276dd10a439abb4c595524a9aa2d4921520586c344de8321633409e09",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "This report was issued in August 2026 and covers the time period 1 July 2026 to 31 July 2026 inclusive. The National Space Operations Centre is led by the UK Space Agency and UK Space Command in partnership with the Met Office."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-58": {
+    "text": "The World Health Organization (WHO) and the Republic of Korea have a long-standing partnership spanning over 75 years. As a result of their fruitful collaboration, there has been significant progress in health and development all around the world. The Republic of Korea has gone from being a donor-recipient country to a donor-country and is now a leader in global health and playing a critical role on the world stage. Dr Catharina Boehme, Assistant Director-General for External Relations and Governance (WHO) and Dr Hye-Jin Kim, Deputy Minister for Planning and Coordination (Ministry of Health and Welfare, Republic of Korea), together with counterparts from WHO and the Government of the Republic of Korea.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "0bcb6280cfc89207d8c39d3f14b1f233c147658ed3b4221bc5d41ffce7672b50",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The World Health Organization (WHO) and the Republic of Korea have a long-standing partnership spanning over 75 years. As a result of their fruitful collaboration, there has been significant progress in health and development all around the world. The Republic of Korea has gone from being a donor-recipient country to a donor-country and is now a leader in global health and playing a critical role on the world stage. Dr Catharina Boehme, Assistant Director-General for External Relations and Governance (WHO) and Dr Hye-Jin Kim, Deputy Minister for Planning and Coordination (Ministry of Health and Welfare, Republic of Korea), together with counterparts from WHO and the Government of the Republic of Korea."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-59": {
+    "text": "In an unprecedented show of unity in support of the World Health Organization, 14 African countries and many partners pledged over US$ 45 million to the WHO Investment Round, a three-month-old initiative aimed at generating sustainable financing for the organization at the center of the global health architecture. The commitments were made during the World Health Organization (WHO) Regional Committee for Africa, with heads of state and government from across the continent underscoring the importance of investing in global health and ensuring a strong WHO. “I thank our African Region Member States for actively supporting WHO’s first Investment Round to mobilize predictable and flexible resources needed for our core work over the next four years,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "e7751fc4adcef4928f4ec4b057777869875867d49a38b453a160725d44cbbaee",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "In an unprecedented show of unity in support of the World Health Organization, 14 African countries and many partners pledged over US$ 45 million to the WHO Investment Round, a three-month-old initiative aimed at generating sustainable financing for the organization at the center of the global health architecture. The commitments were made during the World Health Organization (WHO) Regional Committee for Africa, with heads of state and government from across the continent underscoring the importance of investing in global health and ensuring a strong WHO. “I thank our African Region Member States for actively supporting WHO’s first Investment Round to mobilize predictable and flexible resources needed for our core work over the next four years,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-60": {
+    "text": "Worldwide, traditional medicine is used by billions of people for their health and well-being. At a signing ceremony in Geneva, the Government of India committed US$ 85 million over 10 years, 2022–2032, to support the programming of the WHO Global Traditional Medicine Centre. India’s 10-year financial contribution will support a cross-sectoral program of work to strengthen the evidence base for traditional medicine by providing data and evidence on traditional medicine policies, practice, products, and public use. The WHO-India donor agreement is part of a US$ 250 million investment from India in support of the establishment of the WHO Global Centre of Traditional Medicine in 2022, which includes financial support for the workplan of the Centre, interim premises and a new building.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "94019044924b9eea2ea6698dcdb5696635c43e0e1ecc96ef3b8f1075e4ef75d5",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Worldwide, traditional medicine is used by billions of people for their health and well-being. At a signing ceremony in Geneva, the Government of India committed US$ 85 million over 10 years, 2022–2032, to support the programming of the WHO Global Traditional Medicine Centre. India’s 10-year financial contribution will support a cross-sectoral program of work to strengthen the evidence base for traditional medicine by providing data and evidence on traditional medicine policies, practice, products, and public use. The WHO-India donor agreement is part of a US$ 250 million investment from India in support of the establishment of the WHO Global Centre of Traditional Medicine in 2022, which includes financial support for the workplan of the Centre, interim premises and a new building."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-61": {
+    "text": "Ahead of the Seventy-seventh World Health Assembly , the Qatar Fund for Development (QFFD) and the World Health Organization (WHO) have signed a Core Contribution Agreement to support the implementation of WHO’s extended Thirteenth General Programme of Work. The agreement entails a contribution of US$ 4 million from the State of Qatar to WHO, through QFFD, aimed at enhancing the Organization's efforts in addressing global health challenges. This partnership underscores the State of Qatar and QFFD's unwavering commitment to improving health outcomes and promoting sustainable development goals worldwide.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "2346cdd4b88a632fea12209733f87f4fa85fe86b2c176987d29d3bcc35834e67",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Ahead of the Seventy-seventh World Health Assembly , the Qatar Fund for Development (QFFD) and the World Health Organization (WHO) have signed a Core Contribution Agreement to support the implementation of WHO’s extended Thirteenth General Programme of Work. The agreement entails a contribution of US$ 4 million from the State of Qatar to WHO, through QFFD, aimed at enhancing the Organization's efforts in addressing global health challenges. This partnership underscores the State of Qatar and QFFD's unwavering commitment to improving health outcomes and promoting sustainable development goals worldwide."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-62": {
+    "text": "Governments of the world today agreed to continue working on a proposed pandemic agreement, and to further refine the draft, ahead of the Seventy-seventh World Health Assembly that starts 27 May 2024. Governments meeting at the World Health Organization headquarters in Geneva agreed to resume hybrid and in-person discussions over coming weeks to advance work on critical issues, including around a proposed new global system for pathogen access and benefits sharing (i.e. life-saving vaccines, treatments and diagnostics); pandemic prevention and One Health; and the financial coordination needed to scale up countries’ capacities to prepare for and respond to pandemics.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publisher URL date checked; not an event-date claim. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "dc2f36de695d0b9ab9c8203a850bed9881473b2d0563effc8a992c1581d0719b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Governments of the world today agreed to continue working on a proposed pandemic agreement, and to further refine the draft, ahead of the Seventy-seventh World Health Assembly that starts 27 May 2024. Governments meeting at the World Health Organization headquarters in Geneva agreed to resume hybrid and in-person discussions over coming weeks to advance work on critical issues, including around a proposed new global system for pathogen access and benefits sharing (i.e. life-saving vaccines, treatments and diagnostics); pandemic prevention and One Health; and the financial coordination needed to scale up countries’ capacities to prepare for and respond to pandemics."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "source-63": {
+    "text": "The World Meteorological Organization (WMO) has confirmed that 2024 is the warmest year on record, based on six international datasets. The past ten years have all been in the Top Ten, in an extraordinary streak of record-breaking temperatures. The global average surface temperature was 1.55 °C (with a margin of uncertainty of ± 0.13 °C) above the 1850-1900 average, according to WMO’s consolidated analysis of the six datasets. This means that we have likely just experienced the first calendar year with a global mean temperature of more than 1.5°C above the 1850-1900 average.",
+    "provenance": "Sequential bounded public GET; headline from h1. Publication metadata checked. No full-article summary is claimed. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "1dff5993fe965f892c42648bc274dde1196dd7cb3c415b7e0758107889cda984",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The World Meteorological Organization (WMO) has confirmed that 2024 is the warmest year on record, based on six international datasets. The past ten years have all been in the Top Ten, in an extraordinary streak of record-breaking temperatures. The global average surface temperature was 1.55 °C (with a margin of uncertainty of ± 0.13 °C) above the 1850-1900 average, according to WMO’s consolidated analysis of the six datasets. This means that we have likely just experienced the first calendar year with a global mean temperature of more than 1.5°C above the 1850-1900 average."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-001-source": {
+    "text": "Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father Mitch\n\nThe project is still in early stages with Catherine Schreiber, a Tony award-winning producer (Cabaret, Rent), attached to the project, according to Variety . Casting is reported to currently be under way.\n\nMitch Winehouse, the late musician’s father, is also said to be involved with the show, indicating that it will probably feature her most loved songs.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 7. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "395fb9544d4a50a01232fa6601004e16c1831b913222835aed8f73868d1127c0",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father Mitch",
+      "The project is still in early stages with Catherine Schreiber, a Tony award-winning producer (Cabaret, Rent), attached to the project, according to Variety . Casting is reported to currently be under way.",
+      "Mitch Winehouse, the late musician’s father, is also said to be involved with the show, indicating that it will probably feature her most loved songs."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-002-source": {
+    "text": "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’\n\nI didn’t know before reading your new memoir that you were almost Tony Soprano. Is there a role that you really wanted that you didn’t end up getting?\n\nIt’s not Tony Soprano. There is not a role that I didn’t get that I ever gave more than four hours of grievance to. When I don’t get something, I move on. Because there’s no point. I’m very pragmatic that way. It’s for your own mental health. Once it’s gone, it’s gone.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 10. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "41c482fecf96c2b64cece7a9d87aaa3c601e756c22033f485fc10686d395e8cb",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The actor on surviving 2000s network television in Without a Trace, the role that made him take Brad Pitt seriously, and leaving the US to ‘ride out Trump’",
+      "I didn’t know before reading your new memoir that you were almost Tony Soprano. Is there a role that you really wanted that you didn’t end up getting?",
+      "It’s not Tony Soprano. There is not a role that I didn’t get that I ever gave more than four hours of grievance to. When I don’t get something, I move on. Because there’s no point. I’m very pragmatic that way. It’s for your own mental health. Once it’s gone, it’s gone."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-003-source": {
+    "text": "K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collection\n\nTwo years ago, RM of the wildly popular K-pop boyband BTS was serving as a soldier in the South Korean military when he received an offer from América Castillo, a museum curator in San Francisco: would he consider an exhibition of his private art collection?\n\n“I loved it,” said RM (real name: Kim Namjoon) at the media preview of RM x SFMOMA: Between You and Me , a new exhibition that opened in San Francisco earlier this month and is co-curated by SFMOMA’s Castillo and Hyoeun Kim. “There aren’t many things that show a person more honestly than a collection they’ve built over a long period of time.”",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 11. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "39a0a538c8f39264405a0a71a1de4b6c73c96eea8c1fe4175d8f369bb3820b11",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "K-pop star RM gave a boost to the previously struggling SFMOMA with an exhibition of over 100 pieces from his collection",
+      "Two years ago, RM of the wildly popular K-pop boyband BTS was serving as a soldier in the South Korean military when he received an offer from América Castillo, a museum curator in San Francisco: would he consider an exhibition of his private art collection?",
+      "“I loved it,” said RM (real name: Kim Namjoon) at the media preview of RM x SFMOMA: Between You and Me , a new exhibition that opened in San Francisco earlier this month and is co-curated by SFMOMA’s Castillo and Hyoeun Kim. “There aren’t many things that show a person more honestly than a collection they’ve built over a long period of time.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'T wo' → 'Two'."
+    ]
+  },
+  "nr007-report-004-source": {
+    "text": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye\n\nThe creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-Gaza war .\n\n“Everyone is entitled to a different opinion,” Erin Foster said in an interview with the Not Skinny Not Fat podcast when asked about Brody calling for a free Palestine.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 12. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "23604df16caed6b950f1ee80043b9673993dd4ce4ae21db2320394d59f964558",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye",
+      "The creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-Gaza war .",
+      "“Everyone is entitled to a different opinion,” Erin Foster said in an interview with the Not Skinny Not Fat podcast when asked about Brody calling for a free Palestine."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-005-source": {
+    "text": "The bestselling writer, known as Japan’s enfant terrible, explored the dark underbelly of Japanese society in more than 40 works of subversive fiction including Audition, later made into a landmark indie horror movie\n\nRyu Murakami, the cult Japanese author and film-maker whose subversive, blackly comic novels found millions of readers, has died aged 74. He died on 17 October at home, according to his Japanese publisher Gentosha.\n\nDescribed as the enfant terrible of contemporary Japanese literature, Murakami incorporated violence, explicit drug use and sex into stories that offered a sharp-eyed critique of Japanese and American culture.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 13. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "f802a1037ef0fd57cb7c8372fe90e83b817dcb0d37284f6bb60abc760b930bdf",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The bestselling writer, known as Japan’s enfant terrible, explored the dark underbelly of Japanese society in more than 40 works of subversive fiction including Audition, later made into a landmark indie horror movie",
+      "Ryu Murakami, the cult Japanese author and film-maker whose subversive, blackly comic novels found millions of readers, has died aged 74. He died on 17 October at home, according to his Japanese publisher Gentosha.",
+      "Described as the enfant terrible of contemporary Japanese literature, Murakami incorporated violence, explicit drug use and sex into stories that offered a sharp-eyed critique of Japanese and American culture."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-006-source": {
+    "text": "Celia’s guffs, Richard’s gaffes, Claudia’s glorious knitwear – The Traitors has become the most successful show on the planet. The creators and the queen of the castle herself talk exploding pirate ships, becoming evil and Barry the owl\n\nIt all began on a Dutch trading ship in 1628. No, really. When the Batavia set sail from Amsterdam, it crashed and the shipwrecked survivors were left stranded on a tiny island off the coast of Western Australia. As mutineers eyed the Batavia’s stash of silver, shipmates, friends and families turned on each other. About 100 people were brutally murdered, making it one of the most violent chapters in maritime history.\n\nNearly 400 years later, in 2015, creative entrepreneur Marc Pos had a lightbulb moment while reading about this “adult Lord of the Flies” atrocity. It gave him the idea for a reality TV show – the game of trust and treachery we now know as The Traitors . It was originally envisaged to take place on a boat, with banished players jumping overboard into the sea.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 14. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "7349c7abc0e582c28a69adb2ef2e81df93fc2c9512f9d08da82660511c93870a",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Celia’s guffs, Richard’s gaffes, Claudia’s glorious knitwear – The Traitors has become the most successful show on the planet. The creators and the queen of the castle herself talk exploding pirate ships, becoming evil and Barry the owl",
+      "It all began on a Dutch trading ship in 1628. No, really. When the Batavia set sail from Amsterdam, it crashed and the shipwrecked survivors were left stranded on a tiny island off the coast of Western Australia. As mutineers eyed the Batavia’s stash of silver, shipmates, friends and families turned on each other. About 100 people were brutally murdered, making it one of the most violent chapters in maritime history.",
+      "Nearly 400 years later, in 2015, creative entrepreneur Marc Pos had a lightbulb moment while reading about this “adult Lord of the Flies” atrocity. It gave him the idea for a reality TV show – the game of trust and treachery we now know as The Traitors . It was originally envisaged to take place on a boat, with banished players jumping overboard into the sea."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'I t' → 'It'."
+    ]
+  },
+  "nr007-report-007-source": {
+    "text": "Viral pleas for punters to stop yapping have divided clubland. With ketamine and social media also altering behaviour, DJs and dancers weigh in on how sacred a space the club should be\n\nTowards the end of summer, a debate began raging in clubland, kick-started by an Instagram post from the esteemed DJ Jane Fitz. Ahead of the Houghton festival, where she is a regular fixture, she posted a request asking people to stop chatting so much during DJ sets.\n\n“What I wrote was super respectful,” she tells me. “A bit of talking is obviously OK. But why would you stand completely still, where the sound is super loud, just to ask your mate about a new boyfriend or what they had for lunch? It’s called a dancefloor for a reason.”",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 15. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "b86d49a05c8071641632b24b5a233befdd8ebf9397a1ba2e1364072fee9d453c",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Viral pleas for punters to stop yapping have divided clubland. With ketamine and social media also altering behaviour, DJs and dancers weigh in on how sacred a space the club should be",
+      "Towards the end of summer, a debate began raging in clubland, kick-started by an Instagram post from the esteemed DJ Jane Fitz. Ahead of the Houghton festival, where she is a regular fixture, she posted a request asking people to stop chatting so much during DJ sets.",
+      "“What I wrote was super respectful,” she tells me. “A bit of talking is obviously OK. But why would you stand completely still, where the sound is super loud, just to ask your mate about a new boyfriend or what they had for lunch? It’s called a dancefloor for a reason.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'T owards' → 'Towards'."
+    ]
+  },
+  "nr007-report-008-source": {
+    "text": "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years\n\n“While the world knew Tom through his remarkable acting career, we knew him for his humor, curiosity, wisdom, generosity, and the love he brought into our lives,” a family statement shared with People read.\n\nStars who paid tribute to him on Thursday included his Steel Magnolias co-star Julia Roberts, who remembered him as “a shining light of a gentle man”, as well as his Picket Fences co-star Cathy Baker.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 16. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "92a1e877cef6b655df308f97790b595c6be1699bcf36b8328a44787919ebce46",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Actor also had roles in M*A*S*H, A River Runs Through It and Picket Fences in career spanning 60 years",
+      "“While the world knew Tom through his remarkable acting career, we knew him for his humor, curiosity, wisdom, generosity, and the love he brought into our lives,” a family statement shared with People read.",
+      "Stars who paid tribute to him on Thursday included his Steel Magnolias co-star Julia Roberts, who remembered him as “a shining light of a gentle man”, as well as his Picket Fences co-star Cathy Baker."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-009-source": {
+    "text": "New film Fatherland took Sandra Hüller back to a divided Germany. She talks about damaged dreams, Hollywood feelgood and - just maybe - appearing in the new Marvel movie\n\nSandra Hüller is crying, and it feels very strange. A wildly gifted actor, she can convey every human emotion there is. On screen, though, she is most often asked to embody deep self-possession. Even doing karaoke, Hüller is in control. And in real life, life is good. Her 2026 will end with four high-profile movies this year alone. Two (Fatherland and Rose) are black-and-white arthouse films that centre on her brilliance, and though one of the others (Digger) is already a Hollywood cautionary tale, a second (Project Hail Mary) was a giant $684m hit. (There may also be a fifth movie, bigger still. We will come back to that.)\n\nAnd yet, dressed in film star black, she is in tears. “This is really hard for me,” she says.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 17. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "1c9f11adf1c3b69ed002e5ced2709b5d4947b5abb0de572d6b016ce57e34c587",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "New film Fatherland took Sandra Hüller back to a divided Germany. She talks about damaged dreams, Hollywood feelgood and - just maybe - appearing in the new Marvel movie",
+      "Sandra Hüller is crying, and it feels very strange. A wildly gifted actor, she can convey every human emotion there is. On screen, though, she is most often asked to embody deep self-possession. Even doing karaoke, Hüller is in control. And in real life, life is good. Her 2026 will end with four high-profile movies this year alone. Two (Fatherland and Rose) are black-and-white arthouse films that centre on her brilliance, and though one of the others (Digger) is already a Hollywood cautionary tale, a second (Project Hail Mary) was a giant $684m hit. (There may also be a fifth movie, bigger still. We will come back to that.)",
+      "And yet, dressed in film star black, she is in tears. “This is really hard for me,” she says."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'S andra' → 'Sandra'."
+    ]
+  },
+  "nr007-report-010-source": {
+    "text": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued\n\nRebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers.\n\nThe Pitch Perfect star directed, co-produced and starred in The Deb, a musical comedy that became the battleground for multiple legal battles in Australia and the US.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 18. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "70b7f090c03b3efda13cfc44a9ce981192931bab45e97874cd57cfc3d44b5fe6",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued",
+      "Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s co-producers.",
+      "The Pitch Perfect star directed, co-produced and starred in The Deb, a musical comedy that became the battleground for multiple legal battles in Australia and the US."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-011-source": {
+    "text": "Trial results represent ‘foundational shift’ in approach to cancer, allowing scientists to harness immune system in more personalised way\n\nA personalised mRNA-based melanoma vaccine significantly reduces the risk of cancer recurrence or death within two years, new clinical trial results show.\n\nThe vaccine, intismeran, is custom-made to target genetic mutations unique to an individual’s melanoma. It is the first individualised cancer vaccine to show positive results in a phase III clinical trial .",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 19. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "b82b4577fb6701fb438d8463131c8eeb27a3f00f186e0fe38463b57e0c6a35b3",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Trial results represent ‘foundational shift’ in approach to cancer, allowing scientists to harness immune system in more personalised way",
+      "A personalised mRNA-based melanoma vaccine significantly reduces the risk of cancer recurrence or death within two years, new clinical trial results show.",
+      "The vaccine, intismeran, is custom-made to target genetic mutations unique to an individual’s melanoma. It is the first individualised cancer vaccine to show positive results in a phase III clinical trial ."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-012-source": {
+    "text": "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future\n\nLove them or loathe them, bananas are one of the world’s most popular fruit . But a combination of the climate crisis and new killer diseases have had growers concerned over the banana’s threatened extinction , something that would impose a huge toll on farmers in countries from Guatemala to Malawi, alongside eradicating a staple food.\n\nNow researchers say they have made fresh advances in the race to save them from disaster. This month, Yelloway – a research collaboration between Chiquita, the world’s largest banana company , and the crop-improvement company KeyGene – announced it had developed a fully fertile Cavendish banana, meaning it may be possible, through cross-breeding, to create new banana varieties that are commercially viable and resistant to disease.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 20. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "9448cc2ffe643604672bb36c7e615f1eff6db5aaa297ccf5f42c85329cf7cc58",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "With the climate crisis and diseases threatening one of the world’s most popular fruits, researchers are hoping a breakthrough in breeding techniques could give the Cavendish banana a certain future",
+      "Love them or loathe them, bananas are one of the world’s most popular fruit . But a combination of the climate crisis and new killer diseases have had growers concerned over the banana’s threatened extinction , something that would impose a huge toll on farmers in countries from Guatemala to Malawi, alongside eradicating a staple food.",
+      "Now researchers say they have made fresh advances in the race to save them from disaster. This month, Yelloway – a research collaboration between Chiquita, the world’s largest banana company , and the crop-improvement company KeyGene – announced it had developed a fully fertile Cavendish banana, meaning it may be possible, through cross-breeding, to create new banana varieties that are commercially viable and resistant to disease."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-013-source": {
+    "text": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areas\n\nThe shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen scientists with camera phones is a great asset.\n\nThe CoastSnap project started in Australia in 2017 and has spread to beaches worldwide. You may have spotted the setup while out walking along the coast: a cradle to rest your phone on while taking a picture and a sign explaining where to send the snap.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 21. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "8295b65d59cd03805ddcf9284abc910be472dbde2c022dc312631c1fbc74619d",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areas",
+      "The shoreline changes with the weather. Tracking these changes over time is a labour-intensive task, and an army of citizen scientists with camera phones is a great asset.",
+      "The CoastSnap project started in Australia in 2017 and has spread to beaches worldwide. You may have spotted the setup while out walking along the coast: a cradle to rest your phone on while taking a picture and a sign explaining where to send the snap."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-014-source": {
+    "text": "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed\n\nThe Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court.\n\nFrom next month, 137 cancer drugs in India will be cheaper as the government tries to tackle the tragedy of poorer patients either forgoing treatment, selling land or falling into debt to meet the high cost of some medicines, which are making large profits for hospitals and pharmacists.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 22. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "eb3c8a93a5c2aca1dc40c5e8d6ee6c337fe13c0052d88d1a2ca831c02d129721",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Case filed in 2022 by patient unable to afford medicine leads to cap on drug prices for millions who face ruin if diagnosed",
+      "The Indian government has moved to reduce the price of cancer drugs after a retired bank clerk took her case to the supreme court.",
+      "From next month, 137 cancer drugs in India will be cheaper as the government tries to tackle the tragedy of poorer patients either forgoing treatment, selling land or falling into debt to meet the high cost of some medicines, which are making large profits for hospitals and pharmacists."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-015-source": {
+    "text": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot\n\nIt has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus unearthed in the grounds of Westminster Abbey.\n\nNow an expert has said he has solved the longstanding “who-is-it”, suggesting the remains belonged to a medieval abbot.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 23. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "333ec04aba3e8902e9c4228468521a23003345edaf7796024ed01ad8fc5866dd",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot",
+      "It has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus unearthed in the grounds of Westminster Abbey.",
+      "Now an expert has said he has solved the longstanding “who-is-it”, suggesting the remains belonged to a medieval abbot."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-016-source": {
+    "text": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborate\n\nInvestors were paying close attention to Tesla ’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX . But they didn’t glean further information after the company announced there would be no questions on the matter.\n\n“With regard to a potential merger with SpaceX , I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.”",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 24. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "165b3caa9cf0cdc0682582faca39dc6a63b8b4bfd5a51f7077e28779a0e27829",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders, but declined to elaborate",
+      "Investors were paying close attention to Tesla ’s third-quarter earnings call on Wednesday afternoon, after chief executive Elon Musk floated the idea of merging the car company with his rocket and AI company, SpaceX . But they didn’t glean further information after the company announced there would be no questions on the matter.",
+      "“With regard to a potential merger with SpaceX , I think I said everything that should be said yesterday,” Musk, the CEO of both companies, said on Tesla’s earnings call. He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-017-source": {
+    "text": "Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learning\n\nOrangutans base their food choices on whether others appear to be having a good time, research suggests.\n\nScientists studying captive orangutans have found that when the great apes heard the sound of their peers laughing before they searched a bowl for a tasty treat, they valued the reward more highly.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 25. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "cafa264fadaa373f5a286a3c3bab2ca03470d30413eee00a78a4969b546c59d5",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Apes in study more likely to choose treats linked to sound of peers having fun, suggesting emotions influence learning",
+      "Orangutans base their food choices on whether others appear to be having a good time, research suggests.",
+      "Scientists studying captive orangutans have found that when the great apes heard the sound of their peers laughing before they searched a bowl for a tasty treat, they valued the reward more highly."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-018-source": {
+    "text": "Study pitting preschoolers against adults mostly in their 20s finds fear of failure and anxiety hamper the grownups\n\nAsk a five-year-old to paint a picture and they will almost instinctively reach for the brush, but ask an adult to do the same and they will often hesitate and shy away. Now researchers say they know why.\n\nWhile it is widely assumed children are more creative than adults, a new study challenges this notion, finding adults outperform preschoolers on creative tasks but generally feel less confident and more anxious doing them.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 26. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "5f6405e00a70d7aa8e95767a52020f8f1dc6f5512684f1e3d84d9fc4cbb1eeb2",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Study pitting preschoolers against adults mostly in their 20s finds fear of failure and anxiety hamper the grownups",
+      "Ask a five-year-old to paint a picture and they will almost instinctively reach for the brush, but ask an adult to do the same and they will often hesitate and shy away. Now researchers say they know why.",
+      "While it is widely assumed children are more creative than adults, a new study challenges this notion, finding adults outperform preschoolers on creative tasks but generally feel less confident and more anxious doing them."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-019-source": {
+    "text": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission\n\nThe federal government has sent an offer to the European Space Agency (ESA) to send the Australian of the Year, astronaut Katherine Bennell-Pegg, to the International Space Station .\n\nThe mission, slated for 2028, will mark the first time a qualified astronaut has flown to space under the Australian flag.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 27. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "0a070eccd31040a607d34bf825cf2cdfe8c8d3d64fb23932f0f0b757090ca2bb",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission",
+      "The federal government has sent an offer to the European Space Agency (ESA) to send the Australian of the Year, astronaut Katherine Bennell-Pegg, to the International Space Station .",
+      "The mission, slated for 2028, will mark the first time a qualified astronaut has flown to space under the Australian flag."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-020-source": {
+    "text": "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse\n\n“It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of Paramount and Warner Bros Discovery (WBD). “David has got what he wanted, but now there is a price to pay.”\n\nEarlier this month, David Ellison, Skydance’s chief executive, sealed the $110bn (£82bn) deal , creating a global powerhouse spanning two Hollywood studios each more than a century old, the TV networks HBO, MTV and Discovery, and news outlets CBS and CNN.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 28. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "e98060e729a92236579d9831d08753a3ea4f908c726dcfb94bb86727a1dcbbdf",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse",
+      "“It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of Paramount and Warner Bros Discovery (WBD). “David has got what he wanted, but now there is a price to pay.”",
+      "Earlier this month, David Ellison, Skydance’s chief executive, sealed the $110bn (£82bn) deal , creating a global powerhouse spanning two Hollywood studios each more than a century old, the TV networks HBO, MTV and Discovery, and news outlets CBS and CNN."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'I t' → 'It'."
+    ]
+  },
+  "nr007-report-021-source": {
+    "text": "Campaigners call lack of progress ‘staggering’ as online regulator issues review of first nine months of new regime\n\nLandmark online safety measures have failed to limit the proportion of children suffering harm from social media, the UK’s online regulator has admitted, in an assessment branded “staggering” by campaigners.\n\nThe proportion of children being fed unsafe content that often left them frightened, confused and upset, was almost unchanged, according to an Ofcom review of the first nine months of supposedly strict requirements on social media platforms such as TikTok and Instagram.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 29. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "2073676b1322fadbab6e23784c8b20717129ae9e1e25329a3f18a441e6d086b7",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Campaigners call lack of progress ‘staggering’ as online regulator issues review of first nine months of new regime",
+      "Landmark online safety measures have failed to limit the proportion of children suffering harm from social media, the UK’s online regulator has admitted, in an assessment branded “staggering” by campaigners.",
+      "The proportion of children being fed unsafe content that often left them frightened, confused and upset, was almost unchanged, according to an Ofcom review of the first nine months of supposedly strict requirements on social media platforms such as TikTok and Instagram."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-022-source": {
+    "text": "Duchess of Sussex’s decision to cut ties with elderly father cast in new light as he faces sexual abuse image claims\n\nThe depiction of the Duchess of Sussex by certain sections of the media has often been one of a fame-hungry daughter casting off an elderly father in his declining years and keeping him from his grandchildren as she embraces the international celebrity stage.\n\nTheir estrangement has been the subject of countless headlines since her marriage to Prince Harry. But her statement today, released after child sexual abuse image allegations made against Thomas Markle Sr , 82, suggests deeper, darker fears as the cause.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 30. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "28851cc0d4090e33ca34a1462ce8b47f52669142949d10862eba892a71ded86d",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Duchess of Sussex’s decision to cut ties with elderly father cast in new light as he faces sexual abuse image claims",
+      "The depiction of the Duchess of Sussex by certain sections of the media has often been one of a fame-hungry daughter casting off an elderly father in his declining years and keeping him from his grandchildren as she embraces the international celebrity stage.",
+      "Their estrangement has been the subject of countless headlines since her marriage to Prince Harry. But her statement today, released after child sexual abuse image allegations made against Thomas Markle Sr , 82, suggests deeper, darker fears as the cause."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-023-source": {
+    "text": "The new owners of the Daily Telegraph have made large numbers of staff redundant, telling them the title will be transformed from a newspaper “into a global, AI-powered premium media and intelligence business”.\n\nIn an all-company briefing and email on Friday morning, staff were told the title would rely increasingly on technology, data and AI to “reinvent the reader experience”. Newsroom insiders said they expected as many as 100 people to lose their jobs.\n\nThe “next chapter” of the Telegraph will focus on new revenue streams including “video, audio, puzzles, events, B2B, licensing, commerce and new products”, the CEO, Carolin Hulshoff Pol , wrote.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 31. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "f00244b150fe3036ca899a2281064b29a8c61fa451150fa70efc6c91ef29fbd9",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The new owners of the Daily Telegraph have made large numbers of staff redundant, telling them the title will be transformed from a newspaper “into a global, AI-powered premium media and intelligence business”.",
+      "In an all-company briefing and email on Friday morning, staff were told the title would rely increasingly on technology, data and AI to “reinvent the reader experience”. Newsroom insiders said they expected as many as 100 people to lose their jobs.",
+      "The “next chapter” of the Telegraph will focus on new revenue streams including “video, audio, puzzles, events, B2B, licensing, commerce and new products”, the CEO, Carolin Hulshoff Pol , wrote."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-024-source": {
+    "text": "Conservative media personalities who have long benefited from boosting the president will be forced to wrestle with the likely fallout of Republican losses in next month’s US midterm elections\n\nNothing lasts forever. Jesse Kelly knows his meteoric rise through conservative radio will end one day – just like Donald Trump ’s power over the Republican party.\n\nEvery day, the 6ft 8in Kelly walks a tightrope between sycophancy and criticism of the US president: the same fine line many rightwing hosts have attempted to tread throughout Trump’s rise, fall, and then resurrection from the political graveyard after his 2020 presidential election defeat.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 32. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "88813106d624cd09648053de9d53dbb8e5e57b6db7ee4c8910e6938176730385",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Conservative media personalities who have long benefited from boosting the president will be forced to wrestle with the likely fallout of Republican losses in next month’s US midterm elections",
+      "Nothing lasts forever. Jesse Kelly knows his meteoric rise through conservative radio will end one day – just like Donald Trump ’s power over the Republican party.",
+      "Every day, the 6ft 8in Kelly walks a tightrope between sycophancy and criticism of the US president: the same fine line many rightwing hosts have attempted to tread throughout Trump’s rise, fall, and then resurrection from the political graveyard after his 2020 presidential election defeat."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-025-source": {
+    "text": "Show features live chat sessions with breeders, a podcast and updates on dogs’ progress from birth to weigh-ins\n\nA 24-hour Finnish TV show dedicated entirely to the live progress of a dog and her six newborn puppies is drawing millions of viewers.\n\nAs well as a 24-hour webcam, Pentulive (Puppy Live) includes live evening chat sessions with the dogs’ breeder, a podcast and an instant notification service that updates followers on the puppies’ progress – from their birth to weigh-ins and first nail trims – for eight weeks.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 33. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "48640a6430fcf54a38bd3225884b6d7ce42fbabd5f779d053fa307b7bddf6654",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Show features live chat sessions with breeders, a podcast and updates on dogs’ progress from birth to weigh-ins",
+      "A 24-hour Finnish TV show dedicated entirely to the live progress of a dog and her six newborn puppies is drawing millions of viewers.",
+      "As well as a 24-hour webcam, Pentulive (Puppy Live) includes live evening chat sessions with the dogs’ breeder, a podcast and an instant notification service that updates followers on the puppies’ progress – from their birth to weigh-ins and first nail trims – for eight weeks."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-026-source": {
+    "text": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery\n\nElon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison.\n\nThe deal comes alongside fresh equity infusions from existing investors, including board member Laurene Powell Jobs, Steve Jobs’s widow. Semafor first reported the news.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 34. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "71bb05531084e5367eda39ac8dcbb741d785201006d920370d37c39e6aac3890",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros Discovery",
+      "Elon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison.",
+      "The deal comes alongside fresh equity infusions from existing investors, including board member Laurene Powell Jobs, Steve Jobs’s widow. Semafor first reported the news."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-027-source": {
+    "text": "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition\n\nDonald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a deposition by 11 December – or else he could be subject to sanctions, including the possible dismissal of the $10bn lawsuit.\n\nThe lawsuit stems from a Panorama documentary aired by the BBC that spliced together two comments made nearly an hour apart by Trump during a rally on 6 January 2021, before the US Capitol riot. The BBC has acknowledged that this specific edit was misleading, but Trump has gone on to claim, falsely, that the BBC did not just edit his speech but used AI to insert words into his speech.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 35. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "4ee01e76fa499130d1b516631aeaf53b953c0c03d8e2ac1955d534b1e783b782",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Judge threatens to dismiss Trump’s BBC lawsuit unless he cooperates with discovery process and sits for deposition",
+      "Donald Trump has been ordered by a US judge to cooperate with the discovery process mandated for his lawsuit against the BBC and to sit for a deposition by 11 December – or else he could be subject to sanctions, including the possible dismissal of the $10bn lawsuit.",
+      "The lawsuit stems from a Panorama documentary aired by the BBC that spliced together two comments made nearly an hour apart by Trump during a rally on 6 January 2021, before the US Capitol riot. The BBC has acknowledged that this specific edit was misleading, but Trump has gone on to claim, falsely, that the BBC did not just edit his speech but used AI to insert words into his speech."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-028-source": {
+    "text": "Fears over lack of scrutiny for key sectors as health editor position also to go in cuts aimed at saving £5.5m\n\nThe BBC will no longer have a dedicated education editor as part of a cost-cutting drive in which 100 jobs are to go across BBC News under a plan that school leaders described as “deeply regrettable”.\n\nBBC staff have been told that the roles of education editor and social affairs editor are to be combined into a single position as part of a round of changes that will save £5.5m. However, prominent unions and campaigners are saying the reform will dilute scrutiny of two specialisms that are too important to go without a dedicated BBC role.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 36. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "5cad51e770a43e43212bfe5b139bcc1bd7431e8a281085e92be5940e24873555",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Fears over lack of scrutiny for key sectors as health editor position also to go in cuts aimed at saving £5.5m",
+      "The BBC will no longer have a dedicated education editor as part of a cost-cutting drive in which 100 jobs are to go across BBC News under a plan that school leaders described as “deeply regrettable”.",
+      "BBC staff have been told that the roles of education editor and social affairs editor are to be combined into a single position as part of a round of changes that will save £5.5m. However, prominent unions and campaigners are saying the reform will dilute scrutiny of two specialisms that are too important to go without a dedicated BBC role."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-029-source": {
+    "text": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro\n\nMore than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro .\n\nNearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 37. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "631b52ab2eab61a9063915b42140a1477dfc504ab97d3aad659a2fc52a40aaed",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro",
+      "More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro .",
+      "Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-030-source": {
+    "text": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran\n\nMarco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war.\n\nThe US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 38. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "17dfaaa580dcdae540ae1eb36bf12536cf24837795f383463250695e3642a8ad",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran",
+      "Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war.",
+      "The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-031-source": {
+    "text": "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says\n\nWhen Vanesa Ortiz came to Calgary from Mexico , she found herself in a city gripped by winter. Outside the airport, it was -15C (5F).\n\n“I would come to understand that this was not an extreme cold,” she said. “But in the moment it was terrifying.”",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 39. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "576f30ebdd08988630f8c9cd62f18c5f000c43dd63e5da926fde841a19879f0b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says",
+      "When Vanesa Ortiz came to Calgary from Mexico , she found herself in a city gripped by winter. Outside the airport, it was -15C (5F).",
+      "“I would come to understand that this was not an extreme cold,” she said. “But in the moment it was terrifying.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-032-source": {
+    "text": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member\n\nKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.\n\nThe North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 40. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "471574f78f9846f24855bd6b077856781da36b6007282aafe1f2da6877152e68",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member",
+      "Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.",
+      "The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-033-source": {
+    "text": "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions\n\nPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries.\n\nThe statement, carried by the state news agency KCNA on Thursday, came a day after she said the loudspeakers would be in operation along the whole border from some time in October.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 41. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "483ce02dabc32840a76f4f136eb5660d3a241457d78728ebd03410c82760e3e3",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions",
+      "Propaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries.",
+      "The statement, carried by the state news agency KCNA on Thursday, came a day after she said the loudspeakers would be in operation along the whole border from some time in October."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-034-source": {
+    "text": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence\n\nAustralia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders.\n\nThe safety of elected representatives at all levels has been thrown into the spotlight after independent MP Helen Haines was allegedly deliberate attacked outside her Wangaratta electoral office.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 42. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "973abfe43fe9d972e4145b223c68a0e2863150f4980e89724cc73bb9cfee84c2",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence",
+      "Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and threats and abuse being directed at leaders.",
+      "The safety of elected representatives at all levels has been thrown into the spotlight after independent MP Helen Haines was allegedly deliberate attacked outside her Wangaratta electoral office."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-035-source": {
+    "text": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November\n\nAndy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc.\n\nThe prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the UK goes “all the way” and rejoins the EU.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 43. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "e6aea0e166422b422c638b72093b8d21486e0b30a790d645cc60048b66ff5c75",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Prime minister is considering different options for new relationship with Brussels ahead of summit in November",
+      "Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc.",
+      "The prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the UK goes “all the way” and rejoins the EU."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-036-source": {
+    "text": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres\n\nHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.\n\nIn Paris, at least 110,000 people marched along the eastern edge of the city, according to government estimates. They supported high schoolers but also complained of the high cost of living and the government’s heavy policing, saying riot police had been sent to target school protesters over the past month, instead of the government offering political solutions.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 44. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "c205c302616916e3150152d4eab3238377b4c355004d343ca19f3a3067a76455",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres",
+      "Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.",
+      "In Paris, at least 110,000 people marched along the eastern edge of the city, according to government estimates. They supported high schoolers but also complained of the high cost of living and the government’s heavy policing, saying riot police had been sent to target school protesters over the past month, instead of the government offering political solutions."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-037-source": {
+    "text": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska\n\nA new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range.\n\nOpponents say the practice will cause bears to be more aggressive around humans, and allege that the rule change is a political gift to largely rightwing trophy hunters. The rule replaces a 2024 Biden administration rule that banned the practice, and environmental groups criticized the move as “indefensible and inexcusable”.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 45. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "c4874a7e7f6ed505c9d1dfac056e5984a5b7f70cf8c9a63032897ce3c1d4b55b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska",
+      "A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to help kill the trophy animals at close range.",
+      "Opponents say the practice will cause bears to be more aggressive around humans, and allege that the rule change is a political gift to largely rightwing trophy hunters. The rule replaces a 2024 Biden administration rule that banned the practice, and environmental groups criticized the move as “indefensible and inexcusable”."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-038-source": {
+    "text": "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution\n\nA new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting pesticide atrazine – which has regularly been found at levels that threaten wildlife and human health.\n\nThe cancer-linked chemical is now contaminating nearly 25%, or about 860,000 miles, of all continental US rivers, according to a recent review of federal records . The waterways cover more than 20% of surface drinking water intakes across the country, and more than 675,000 private and commercial wells.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 46. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "8eb7d088f23ba02d09474827391182483ee78beeff1b119fb0bb4515864aa55a",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Suit alleges EPA has for decades failed under the Clean Water Act to address surface-water atrazine pollution",
+      "A new lawsuit asks a federal judge to order the Trump administration to address widespread pollution from the hormone-disrupting pesticide atrazine – which has regularly been found at levels that threaten wildlife and human health.",
+      "The cancer-linked chemical is now contaminating nearly 25%, or about 860,000 miles, of all continental US rivers, according to a recent review of federal records . The waterways cover more than 20% of surface drinking water intakes across the country, and more than 675,000 private and commercial wells."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-039-source": {
+    "text": "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support\n\nAn area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has become the nation’s newest national park.\n\nLegislation to create Chiricahua national park was sent to the White House and Donald Trump signed it on Tuesday. It passed Congress with bipartisan backing and is now the 64th US national park.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 47. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "83cfe2d4323a349de8499794eb3d7d986e8c6be4c533362e8ebc262850c2327a",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Arizona’s Land of Standing-Up Rocks, formed from ancient volcanic eruption, gets new status with bipartisan support",
+      "An area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has become the nation’s newest national park.",
+      "Legislation to create Chiricahua national park was sent to the White House and Donald Trump signed it on Tuesday. It passed Congress with bipartisan backing and is now the 64th US national park."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-040-source": {
+    "text": "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disaster\n\nMarine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study .\n\nThe April 2010 explosion of an offshore drilling unit 50 miles off the Louisiana coast triggered the largest marine oil spill in history, releasing 134m gallons of oil into the ocean. According to the study published on Monday in PNAS, the disaster – which also killed 11 people and injured 17 others – led to the “sudden, severe and persistent declines in the abundance” of marine life for more than a decade.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 48. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "ff1ed98b39bae690012a90e574606de2f405bc2bffc93b2a2a35849661bbef27",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disaster",
+      "Marine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study .",
+      "The April 2010 explosion of an offshore drilling unit 50 miles off the Louisiana coast triggered the largest marine oil spill in history, releasing 134m gallons of oil into the ocean. According to the study published on Monday in PNAS, the disaster – which also killed 11 people and injured 17 others – led to the “sudden, severe and persistent declines in the abundance” of marine life for more than a decade."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-041-source": {
+    "text": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads\n\nPolluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The couple, who farm 460 acres in the Norfolk Broads, have now scored a hat-trick of landmark legal victories to save an internationally important wetland after they won again in the high court this month.\n\nLady Justice Lieven found that Natural England failed in its statutory duty to protect Catfield Fen from pollution after nitrates and phosphates washed from arable fields into one of the finest examples of calcareous fen in western Europe, home to 2,500 species including rarities such as the fen orchid, crested buckler fern, breeding bittern and swallowtail butterflies.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 49. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "f7bcb84d3483709c81dfb0229adad97355bbebab3162e9d8db953f84131d8e12",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads",
+      "Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The couple, who farm 460 acres in the Norfolk Broads, have now scored a hat-trick of landmark legal victories to save an internationally important wetland after they won again in the high court this month.",
+      "Lady Justice Lieven found that Natural England failed in its statutory duty to protect Catfield Fen from pollution after nitrates and phosphates washed from arable fields into one of the finest examples of calcareous fen in western Europe, home to 2,500 species including rarities such as the fen orchid, crested buckler fern, breeding bittern and swallowtail butterflies."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'P olluters' → 'Polluters'."
+    ]
+  },
+  "nr007-report-042-source": {
+    "text": "Dozens of projects are in development across US despite concerns over environmental and health risks\n\nThe plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars.\n\nBut as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our place,” she says. Generations of her family are buried in the cemetery, and she is raising her five grandchildren in one of several dozen white-clapboard homes among cornfields and industrial plants serving the farming industry.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 50. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "faec412447ccb33fa8a6e9b5a6a4de72163a6a01cba67a2c50f8111a76834124",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Dozens of projects are in development across US despite concerns over environmental and health risks",
+      "The plan to bury carbon under remote Indiana farmland is supposed to be a slam dunk for the climate, according to its supporters – all generously funded by US tax dollars.",
+      "But as far as Melissa Harrison and some other residents of Clymers, Indiana, are concerned, it just might be the end of their town. “This is our place,” she says. Generations of her family are buried in the cemetery, and she is raising her five grandchildren in one of several dozen white-clapboard homes among cornfields and industrial plants serving the farming industry."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-043-source": {
+    "text": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate\n\nMexico is facing a “toxic crisis” and has become a “garbage sink” for the US, exposing Mexican communities to dangerous pollution, a UN expert has warned.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 51. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "f374ad828727809743580639c4dc776f17ef3adcc873887648a07e3635095743",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulate",
+      "Mexico is facing a “toxic crisis” and has become a “garbage sink” for the US, exposing Mexican communities to dangerous pollution, a UN expert has warned."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit photographic caption or related-link paragraph: Revealed: Mexico’s industrial boomtown is making goods for the US. Residents say they’re ‘"
+    ]
+  },
+  "nr007-report-044-source": {
+    "text": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near empty\n\nBig pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put some of their profits back into conservation was left virtually empty.\n\nThe Cali Fund set out to raise $1bn (£750m) annually, by asking companies that profit from nature’s genetics to contribute towards conservation in low-income countries. But more than 18 months after the fund was launched, it remains far below this target.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 52. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "7b90259536e1b317a4f5fedd204fc5f83d847fba2d7231e272e575f6d0ccdc5d",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near empty",
+      "Big pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put some of their profits back into conservation was left virtually empty.",
+      "The Cali Fund set out to raise $1bn (£750m) annually, by asking companies that profit from nature’s genetics to contribute towards conservation in low-income countries. But more than 18 months after the fund was launched, it remains far below this target."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-045-source": {
+    "text": "Sewage samples and crime statistics paint a picture of established users taking more cocaine, more often\n\nFrom pub toilets and private parties to football terraces and far-right marches, cocaine has become a familiar presence across modern Britain. Deaths linked to the drug have risen to record levels, while its supply supports a multibillion-pound criminal industry.\n\nBut who is using the drug, and how has the picture changed? The figures do not necessarily show millions of new users, but highlight an established market in which some people take more cocaine, more often – and face greater harm as they grow older.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 53. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "c9c66439aa6acb21230cdacef069ab60b621b7ed0c29b651ddbf2a422af2c81b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Sewage samples and crime statistics paint a picture of established users taking more cocaine, more often",
+      "From pub toilets and private parties to football terraces and far-right marches, cocaine has become a familiar presence across modern Britain. Deaths linked to the drug have risen to record levels, while its supply supports a multibillion-pound criminal industry.",
+      "But who is using the drug, and how has the picture changed? The figures do not necessarily show millions of new users, but highlight an established market in which some people take more cocaine, more often – and face greater harm as they grow older."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-046-source": {
+    "text": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game\n\nDried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what some UK residents are stockpiling amid official warnings about Russian “state-sponsored terrorism” and the impact of the climate crisis.\n\nThe government launched a campaign on Thursday advising people to set aside three days’ worth of stores to deal with a whole range of eventualities, and some are already well under way.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 54. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "f80db21d9dca1ea1df0e19877b2b591f4867b4c325af21ecc3cb4e8d87725eef",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game",
+      "Dried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what some UK residents are stockpiling amid official warnings about Russian “state-sponsored terrorism” and the impact of the climate crisis.",
+      "The government launched a campaign on Thursday advising people to set aside three days’ worth of stores to deal with a whole range of eventualities, and some are already well under way."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-048-source": {
+    "text": "After Susan Brison was raped and left for dead, her husband, Thomas, did his best to support her. They are still together, while many relationships collapse after a sexual assault. What did he get right – and wrong?\n\nOn a hot, still, silent noon, at a junction of dirt roads in rural France , Thomas Trezise stood scanning the horizon, looking and listening for his wife. He tried to soothe a deep foreboding. Susan Brison had headed out for a morning walk two hours ago. How could she be gone so long?\n\nThis was 4 July 1990, the start of what was meant to be a busy summer. Trezise and Brison were both assistant professors in the US – he in French at Princeton and Brison in philosophy at Dartmouth – and had just arrived at the remote farmhouse of Trezise’s French colleague. Life seemed packed with promise. “I’d found someone with whom I really wanted to spend my life and I just felt very, very lucky,” says Trezise. “Susan and I had fallen quickly and deeply in love – it was magical – and at that point, we were also trying to conceive a child. We loved being in France. I kind of felt I’d found my way. It was a good place … until it happened.”",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 56. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "9c30f5f8ab4ac12fffd58fa120e54375fecb1b438b3cca32c78ebfad29acdb5f",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "After Susan Brison was raped and left for dead, her husband, Thomas, did his best to support her. They are still together, while many relationships collapse after a sexual assault. What did he get right – and wrong?",
+      "On a hot, still, silent noon, at a junction of dirt roads in rural France , Thomas Trezise stood scanning the horizon, looking and listening for his wife. He tried to soothe a deep foreboding. Susan Brison had headed out for a morning walk two hours ago. How could she be gone so long?",
+      "This was 4 July 1990, the start of what was meant to be a busy summer. Trezise and Brison were both assistant professors in the US – he in French at Princeton and Brison in philosophy at Dartmouth – and had just arrived at the remote farmhouse of Trezise’s French colleague. Life seemed packed with promise. “I’d found someone with whom I really wanted to spend my life and I just felt very, very lucky,” says Trezise. “Susan and I had fallen quickly and deeply in love – it was magical – and at that point, we were also trying to conceive a child. We loved being in France. I kind of felt I’d found my way. It was a good place … until it happened.”"
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'O n' → 'On'."
+    ]
+  },
+  "nr007-report-049-source": {
+    "text": "Black people are more prominent than ever in the UK’s politics and culture. But are they overwhelmingly from the middle class, as Brown argues in his new book? And if so, why isn’t anyone talking about it?\n\nSymeon Brown and David Lammy went to the same primary school in Tottenham, north London. One went on to a selective secondary school, and became the second black person to hold one of Britain’s great offices of state. The other became a journalist who would go on to survey the country’s black professional class more thoroughly than anyone ever had – and who remembers being told by Lammy that he could “never become prime minister, because you sound like where you come from”.\n\nIt was 2010, and Brown, interested in politics, was interning for the then Labour backbencher. “And he was right, certainly at the time,” Brown says now.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 57. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "4937d13d44b246c446ec77e559d98b0152ef893ac074ee180c06cc70f78052c4",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Black people are more prominent than ever in the UK’s politics and culture. But are they overwhelmingly from the middle class, as Brown argues in his new book? And if so, why isn’t anyone talking about it?",
+      "Symeon Brown and David Lammy went to the same primary school in Tottenham, north London. One went on to a selective secondary school, and became the second black person to hold one of Britain’s great offices of state. The other became a journalist who would go on to survey the country’s black professional class more thoroughly than anyone ever had – and who remembers being told by Lammy that he could “never become prime minister, because you sound like where you come from”.",
+      "It was 2010, and Brown, interested in politics, was interning for the then Labour backbencher. “And he was right, certainly at the time,” Brown says now."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'S ymeon' → 'Symeon'."
+    ]
+  },
+  "nr007-report-050-source": {
+    "text": "Their hopes of having a second child were dashed. Two decades on, the actor remembers the grief and pain of that time\n\n“I’m afraid this cycle has not been successful.” Emma and I cannot catch each other’s eye. We sit mute in our grief in the silence of the IVF doctor’s office. This is a kind of grief that is often not understood even to be grief at all. A grief about the loss of a potential child. An anticipatory grief – a grief for something that hasn’t yet appeared – a mourning for a possibility, of a longed-for future life to welcome, love and nurture. And there are no set grief rituals for this – for a child never present – no space in our society to mark, to grieve an actual physical death. It is a silent, achingly lonely, atomised grief. We had undergone many attempts in the years after the birth of our daughter Gaia. But that did not make this any easier.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 58. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "e0bf55d04de37f415aff64893d212bd6cc36226e71fbf9d975bc575e4989aa19",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Their hopes of having a second child were dashed. Two decades on, the actor remembers the grief and pain of that time",
+      "“I’m afraid this cycle has not been successful.” Emma and I cannot catch each other’s eye. We sit mute in our grief in the silence of the IVF doctor’s office. This is a kind of grief that is often not understood even to be grief at all. A grief about the loss of a potential child. An anticipatory grief – a grief for something that hasn’t yet appeared – a mourning for a possibility, of a longed-for future life to welcome, love and nurture. And there are no set grief rituals for this – for a child never present – no space in our society to mark, to grieve an actual physical death. It is a silent, achingly lonely, atomised grief. We had undergone many attempts in the years after the birth of our daughter Gaia. But that did not make this any easier."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Repair extraction split 'I ’m' → 'I’m'."
+    ]
+  },
+  "nr007-report-051-source": {
+    "text": "Turning boarded-up shops into community spaces is a bigger and more complex task than just adding funding\n\n“It is nice to see something happening for once,” says Jack Vincent, a Grimsby resident, as he considers a wave of change finally arriving in a town that had become a byword for deprivation.\n\nIn June, King Charles visited the Lincolnshire coastal town, celebrating the opening of a youth centre in a previously derelict Victorian warehouse building and a Care charity community drop-in centre in a vacant bank on the high street. Scaffolding also shrouds one end of the town’s shopping centre, part of which is being converted to house leisure facilities including a cinema and a food market.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 59. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "6773ea77fd6f1c5222ebb98b9e8b88adbd123e004d3c08f0ba541a77441868bc",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Turning boarded-up shops into community spaces is a bigger and more complex task than just adding funding",
+      "“It is nice to see something happening for once,” says Jack Vincent, a Grimsby resident, as he considers a wave of change finally arriving in a town that had become a byword for deprivation.",
+      "In June, King Charles visited the Lincolnshire coastal town, celebrating the opening of a youth centre in a previously derelict Victorian warehouse building and a Care charity community drop-in centre in a vacant bank on the high street. Scaffolding also shrouds one end of the town’s shopping centre, part of which is being converted to house leisure facilities including a cinema and a food market."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-052-source": {
+    "text": "Andy Burnham pledged a new lease of life for Britain’s high streets. We look at how he can achieve it\n\nOn the road to Downing Street, Andy Burnham promised a new dawn for Britain’s towns and high streets.\n\nFor too long places outside the big cities had been “forgotten or written off”, he argued after the Makerfield byelection. To help towns like those in his constituency, he said his government would make sure that the places Westminster had neglected would now get fairness.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 60. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "d1404065220f4d7c658e92d53117ddb36c7a54f8d0d52ddfb80ee6951f2ca493",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Andy Burnham pledged a new lease of life for Britain’s high streets. We look at how he can achieve it",
+      "On the road to Downing Street, Andy Burnham promised a new dawn for Britain’s towns and high streets.",
+      "For too long places outside the big cities had been “forgotten or written off”, he argued after the Makerfield byelection. To help towns like those in his constituency, he said his government would make sure that the places Westminster had neglected would now get fairness."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-053-source": {
+    "text": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say\n\nThe David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.\n\nNearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge technology, including the world’s first underwater CCTV camera – dubbed “stonefish” cam.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 61. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "2a1904361ab9faafcff9e0f2e58506849882c16290132eec7b1278bb8ccbaff5",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say",
+      "The David Attenborough -narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.",
+      "Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge technology, including the world’s first underwater CCTV camera – dubbed “stonefish” cam."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-055-source": {
+    "text": "Sunday’s ballot was the first for secretary-general Lawrence Wong since he led the party through his first General Election as prime minister last year.\n\nSINGAPORE: The People’s Action Party (PAP) has elected its next central executive committee (CEC), as cadres voted in a renewed leadership slate at the party’s conference on Sunday (Oct 25).",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 63. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "8577da099b1cbe5aad2b71d6d9d4755bb40333dd436929588c870dcf688be185",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Sunday’s ballot was the first for secretary-general Lawrence Wong since he led the party through his first General Election as prime minister last year.",
+      "SINGAPORE: The People’s Action Party (PAP) has elected its next central executive committee (CEC), as cadres voted in a renewed leadership slate at the party’s conference on Sunday (Oct 25)."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit photographic caption or related-link paragraph: The newly elected PAP central executive committee members at the PAP Awards and Conference"
+    ]
+  },
+  "nr007-report-056-source": {
+    "text": "Speaking at a People’s Action Party conference, PM Wong also warned against populism and “simplistic solutions” to difficult problems.\n\nSINGAPORE: The challenge of governance is not just about balancing competing interests but also about confronting issues that would otherwise be politically easier to leave alone, said People's Action Party (PAP) secretary-general Lawrence Wong on Sunday (Oct 25).",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 64. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "55ccdb61b10631749d915dc1f7b57e8512265e851a48e94809e442a02675ae84",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Speaking at a People’s Action Party conference, PM Wong also warned against populism and “simplistic solutions” to difficult problems.",
+      "SINGAPORE: The challenge of governance is not just about balancing competing interests but also about confronting issues that would otherwise be politically easier to leave alone, said People's Action Party (PAP) secretary-general Lawrence Wong on Sunday (Oct 25)."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit photographic caption or related-link paragraph: Prime Minister Lawrence Wong delivers his address at the PAP Awards and Conference on Oct "
+    ]
+  },
+  "nr007-report-057-source": {
+    "text": "The project has been blamed for a host of problems, from dwindling catches to floods, fuelling opposition to green energy projects as fuel costs soar.\n\nSRI LANKA: Beneath rotating wind turbines on Sri Lanka's Mannar peninsula, a fishing net is hauled up the beach by tractor winches and 20 men, but once again the catch is meagre.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 65. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "223efd3deebd299feaeac5e6befe125d6998494e29e8a135688a0af2b08cbf34",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "The project has been blamed for a host of problems, from dwindling catches to floods, fuelling opposition to green energy projects as fuel costs soar.",
+      "SRI LANKA: Beneath rotating wind turbines on Sri Lanka's Mannar peninsula, a fishing net is hauled up the beach by tractor winches and 20 men, but once again the catch is meagre."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch.",
+      "Omit photographic caption or related-link paragraph: This photograph taken on Oct 3, 2026 shows a fisherman working on fishing nets at a beach "
+    ]
+  },
+  "nr007-report-058-source": {
+    "text": "SINGAPORE: Air quality improved across Singapore on Sunday (Oct 25), with the 24-hour Pollutant Standards Index (PSI) readings in two regions dropping into the good to moderate band.\n\nThe reading in the south dropped out of the unhealthy range at 10am when it dipped to 100, and that in the north followed at 1pm as it fell to 99. At 3pm, the readings in the south and north stood at 96 and 97, respectively.\n\nReadings in western, central and eastern Singapore were also declining but remained in the unhealthy band, ranging from 103 to 121.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 66. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "c1a8886112870001917da5c648fd4ffe1b2cfd1da4d0e294e95f07124cd2ec8b",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "SINGAPORE: Air quality improved across Singapore on Sunday (Oct 25), with the 24-hour Pollutant Standards Index (PSI) readings in two regions dropping into the good to moderate band.",
+      "The reading in the south dropped out of the unhealthy range at 10am when it dipped to 100, and that in the north followed at 1pm as it fell to 99. At 3pm, the readings in the south and north stood at 96 and 97, respectively.",
+      "Readings in western, central and eastern Singapore were also declining but remained in the unhealthy band, ranging from 103 to 121."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-060-source": {
+    "text": "A father who fatally shot a gunman at his daughters' school in the US state of Oregon has described his anguish over being unable to save more pupils after \"hearing children pleading for their lives\".\n\nThree students and a teacher were killed by a 16-year-old former student at Silver Rail Elementary School earlier this month. The attacker was then killed by Kaylub Giamanco.\n\n\"I want to apologise for not saving their babies,\" Giamanco, who has been hailed as a hero, said of his thoughts for the parents of the children killed, in an interview with Oregon Public Broadcasting (OPB) that aired on Friday.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 68. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "c68e9f7dc4ee2d96396683039a556cbd1f67d0cd9a9beabdb5f484e9304ef3e4",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "A father who fatally shot a gunman at his daughters' school in the US state of Oregon has described his anguish over being unable to save more pupils after \"hearing children pleading for their lives\".",
+      "Three students and a teacher were killed by a 16-year-old former student at Silver Rail Elementary School earlier this month. The attacker was then killed by Kaylub Giamanco.",
+      "\"I want to apologise for not saving their babies,\" Giamanco, who has been hailed as a hero, said of his thoughts for the parents of the children killed, in an interview with Oregon Public Broadcasting (OPB) that aired on Friday."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-061-source": {
+    "text": "Research shows how seeing bigger violations by others can lead people to increase their own rule-breaking\n\nFrom politicians taking bribes to bullying and harassment in City firms , leaders have been quick to label those who break the rules as the odd “bad apple”. But new research backs up the idiom that one bad apple can spoil the barrel.\n\nResearchers have found that when people go beyond the rule-breaking they see in others, general compliance can swiftly turn into widespread rule-breaking.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 69. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "b9424d29b4b24367fca9bc488ae02283d27ad0af0220b6d3116490d3d21a7cf4",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Research shows how seeing bigger violations by others can lead people to increase their own rule-breaking",
+      "From politicians taking bribes to bullying and harassment in City firms , leaders have been quick to label those who break the rules as the odd “bad apple”. But new research backs up the idiom that one bad apple can spoil the barrel.",
+      "Researchers have found that when people go beyond the rule-breaking they see in others, general compliance can swiftly turn into widespread rule-breaking."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-062-source": {
+    "text": "Centers for Disease Control and Prevention reported 4,588 cases across the country, more than double the tally in 2025\n\nFederal health authorities reported an additional 178 cases of measles in the US this week, as the vaccine-preventable illness continues to sicken people across at least 43 outbreaks.\n\nThe new data reported by the Centers for Disease Control and Prevention (CDC) comes as experts criticize the agency for lack of transparency, and as health secretary Robert F Kennedy Jr takes steps to further upend US vaccine infrastructure.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 70. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "26dd1b55938c253d053c3806b216ed9b641b1067c248f7b481853217f3ffc1f1",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Centers for Disease Control and Prevention reported 4,588 cases across the country, more than double the tally in 2025",
+      "Federal health authorities reported an additional 178 cases of measles in the US this week, as the vaccine-preventable illness continues to sicken people across at least 43 outbreaks.",
+      "The new data reported by the Centers for Disease Control and Prevention (CDC) comes as experts criticize the agency for lack of transparency, and as health secretary Robert F Kennedy Jr takes steps to further upend US vaccine infrastructure."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  },
+  "nr007-report-063-source": {
+    "text": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail\n\nRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions.\n\nFlights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two Immigration and Customs Enforcement (ICE) facilities in south Florida.",
+    "provenance": "NR-007 cycle2 sequential public GET, source-ledger.json row 71. Exact headline from h1; selected paragraphs only. Normalised selected retained passage, not a publisher-verbatim quotation. Hash identifies retained text only; no full-article, rights or independent factual certification.",
+    "exactVerified": false,
+    "excerptHash": "ecbcf5f5e8d99c57090e1fc98c9e831d55c62a8f543dff12b27c3d1052b1b5dd",
+    "fidelityState": "normalised-selected-passage",
+    "paragraphs": [
+      "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail",
+      "Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions.",
+      "Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two Immigration and Customs Enforcement (ICE) facilities in south Florida."
+    ],
+    "transformNotes": [
+      "Recover selected paragraph boundaries from retained source ledger; no new fetch."
+    ]
+  }
+}

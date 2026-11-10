@@ -1,0 +1,232 @@
+{
+  "classification": "HUMAN-AUTHORED INSPECTION EXPECTATIONS ONLY — NOT AI relevance, automatic evidence roles, semantic ranking or independent editorial acceptance",
+  "rows": [
+    {
+      "practiceId": "practice-001",
+      "exactText": "To what extent are science and technology able to solve the problem of waste disposal?",
+      "year": null,
+      "possibleInspectionIds": [
+        "nr007-report-043",
+        "nr007-report-038"
+      ],
+      "guide": "UN rapporteur warning explicitly concerns US-linked waste/pollution in Mexico; identifies a disposal/governance problem, not a technology solution. Atrazine lawsuit illustrates pollution regulation; pesticide contamination is not evidence of waste-disposal treatment effectiveness. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-043",
+          "role": "direct",
+          "whyInspect": "UN rapporteur warning explicitly concerns US-linked waste/pollution in Mexico; identifies a disposal/governance problem, not a technology solution.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        },
+        {
+          "articleId": "nr007-report-038",
+          "role": "context",
+          "whyInspect": "Atrazine lawsuit illustrates pollution regulation; pesticide contamination is not evidence of waste-disposal treatment effectiveness.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": "nr007-report-043",
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-087",
+      "exactText": "In your society, to what extent is it acceptable for public money to be used for the acquisition of works of art?",
+      "year": 2017,
+      "possibleInspectionIds": [
+        "nr007-report-003"
+      ],
+      "guide": "Public museum exhibition of a private collection shows a cultural encounter, not Singapore public acquisition expenditure or its justification. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-003",
+          "role": "context",
+          "whyInspect": "Public museum exhibition of a private collection shows a cultural encounter, not Singapore public acquisition expenditure or its justification.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": null,
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-016",
+      "exactText": "Consider the argument that there should be no censorship of the arts in modern society.",
+      "year": 2023,
+      "possibleInspectionIds": [
+        "nr007-report-004"
+      ],
+      "guide": "Creative collaborators disagree over Palestine; no state ban or arts censorship is established by the passage. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-004",
+          "role": "context",
+          "whyInspect": "Creative collaborators disagree over Palestine; no state ban or arts censorship is established by the passage.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": null,
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-044",
+      "exactText": "Is news today reliable?",
+      "year": 2021,
+      "possibleInspectionIds": [
+        "nr007-report-027",
+        "nr007-report-053",
+        "nr007-report-028",
+        "nr007-report-022"
+      ],
+      "guide": "BBC acknowledged a misleading edit; distinguishes a demonstrated editing error from a separate false AI-insertion claim. Documentary producers describe less polished footage as an authenticity signal, not independently measured reliability. BBC combines specialist editorial roles; scrutiny concern is attributed to critics, not a demonstrated error-rate effect. Account revisits media portrayal after allegations; illustrates revisability, not proof of the allegations or overall news reliability. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": false,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-027",
+          "role": "direct",
+          "whyInspect": "BBC acknowledged a misleading edit; distinguishes a demonstrated editing error from a separate false AI-insertion claim.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        },
+        {
+          "articleId": "nr007-report-053",
+          "role": "direct",
+          "whyInspect": "Documentary producers describe less polished footage as an authenticity signal, not independently measured reliability.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        },
+        {
+          "articleId": "nr007-report-028",
+          "role": "context",
+          "whyInspect": "BBC combines specialist editorial roles; scrutiny concern is attributed to critics, not a demonstrated error-rate effect.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        },
+        {
+          "articleId": "nr007-report-022",
+          "role": "context",
+          "whyInspect": "Account revisits media portrayal after allegations; illustrates revisability, not proof of the allegations or overall news reliability.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": "nr007-report-027",
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-057",
+      "exactText": "Is modern technology a benefit or a threat to democracy?",
+      "year": 2020,
+      "possibleInspectionIds": [
+        "nr007-report-021"
+      ],
+      "guide": "Ofcom review concerns children’s exposure under platform regulation; not direct evidence about voting, political participation or democratic outcomes. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-021",
+          "role": "context",
+          "whyInspect": "Ofcom review concerns children’s exposure under platform regulation; not direct evidence about voting, political participation or democratic outcomes.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": null,
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-037",
+      "exactText": "How far is the pursuit of happiness the most important human goal?",
+      "year": 2021,
+      "possibleInspectionIds": [
+        "nr007-report-050",
+        "nr007-report-018"
+      ],
+      "guide": "First-person fertility grief offers a perspective on valued possible futures, not a population ranking of life goals. Adults’ performance and anxiety diverge; confidence/creative-task findings do not settle the supreme human goal. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-050",
+          "role": "context",
+          "whyInspect": "First-person fertility grief offers a perspective on valued possible futures, not a population ranking of life goals.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        },
+        {
+          "articleId": "nr007-report-018",
+          "role": "context",
+          "whyInspect": "Adults’ performance and anxiety diverge; confidence/creative-task findings do not settle the supreme human goal.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": null,
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-028",
+      "exactText": "Assess the extent to which different age groups in your society are valued equally.",
+      "year": 2022,
+      "possibleInspectionIds": [
+        "nr007-report-018"
+      ],
+      "guide": "Age-group comparison of creative performance/confidence does not measure Singapore’s equal valuation or treatment of age groups. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-018",
+          "role": "context",
+          "whyInspect": "Age-group comparison of creative performance/confidence does not measure Singapore’s equal valuation or treatment of age groups.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": null,
+      "noForcedCrossThemeMinimum": true
+    },
+    {
+      "practiceId": "practice-076",
+      "exactText": "Assess the extent to which different age groups in your society are valued equally.",
+      "year": 2018,
+      "possibleInspectionIds": [
+        "nr007-report-018"
+      ],
+      "guide": "Same retained duplicate question as 2022 counterpart; overseas/unspecified study setting does not measure equal treatment in Singapore. Normative reasoning and wider evidence remain necessary; coverage is unassessed. Singapore-specific evidence is not supplied by these selections.",
+      "unsuitableForSubstantiveAnswerWithoutMoreEvidence": true,
+      "societyDefault": "Singapore",
+      "crossThemeSelectionAllowed": true,
+      "coverage": "unassessed",
+      "score": null,
+      "inspectionRationales": [
+        {
+          "articleId": "nr007-report-018",
+          "role": "context",
+          "whyInspect": "Same retained duplicate question as 2022 counterpart; overseas/unspecified study setting does not measure equal treatment in Singapore.",
+          "limitations": "Selected retained passage only; no automated relevance judgement, score or semantic rank."
+        }
+      ],
+      "strongestRetainedItemId": null,
+      "noForcedCrossThemeMinimum": true
+    }
+  ]
+}

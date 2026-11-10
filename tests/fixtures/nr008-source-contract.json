@@ -1,0 +1,453 @@
+{
+  "provenance": "Static projection of immutable cycle1 source ledger/original corpus, not a new collection or replacement ledger.",
+  "ledgerSHA256": "7c4f709578034af070392e4716fd54d1051c68ad197099698e2ca08d6c8fb868",
+  "attempts": [
+    {
+      "url": "https://restofworld.org/tags/elections/",
+      "status": 301
+    },
+    {
+      "url": "https://restofworld.org/2024/elections-ai-tracker/",
+      "status": 200,
+      "bytes": 50080
+    },
+    {
+      "url": "https://www.aljazeera.com/tag/internet/",
+      "status": 200,
+      "bytes": 259563
+    },
+    {
+      "url": "https://globalvoices.org/-/topics/digital-activism/",
+      "status": 200,
+      "bytes": 229301
+    },
+    {
+      "url": "https://restofworld.org/2024/tracking-global-election-ai/",
+      "status": 200,
+      "bytes": 56850
+    },
+    {
+      "url": "https://globalvoices.org/2026/09/24/bangladesh-protests-can-change-governments-but-can-they-strengthen-democracy/",
+      "status": 200,
+      "bytes": 195741
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/9/15/internet-shutdown-crosses-100-days-in-pakistan-administered-kashmir",
+      "status": 200,
+      "bytes": 198756
+    },
+    {
+      "url": "https://restofworld.org/series/",
+      "status": 404
+    },
+    {
+      "url": "https://restofworld.org/",
+      "status": 200,
+      "bytes": 168811
+    },
+    {
+      "url": "https://globalvoices.org/2026/09/28/when-telcos-shut-down-the-internet-they-shut-down-protests-for-the-government/",
+      "status": 200,
+      "bytes": 194177
+    },
+    {
+      "url": "https://www.theguardian.com/world/2024/jan/13/taiwan-election-disinformation-social-media-factcheckers",
+      "status": 404
+    },
+    {
+      "url": "https://www.aljazeera.com/tag/social-media/",
+      "status": 200,
+      "bytes": 264841
+    },
+    {
+      "url": "https://restofworld.org/2024/bjp-whatsapp-modi/",
+      "status": 200,
+      "bytes": 120851
+    },
+    {
+      "url": "https://restofworld.org/2024/facial-recognition-government-protest-surveillance/",
+      "status": 200,
+      "bytes": 133445
+    },
+    {
+      "url": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race",
+      "status": 200,
+      "bytes": 225501
+    },
+    {
+      "url": "https://globalvoices.org/2026/10/03/how-a-farmers-protest-in-bucharest-was-inflated-online-then-hijacked/",
+      "status": 200,
+      "bytes": 194245
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2024/6/25/kenyas-anti-tax-protests-explained-in-500-words",
+      "status": 404
+    },
+    {
+      "url": "https://restofworld.org/2024/kenya-protests-social-media/",
+      "status": 404
+    },
+    {
+      "url": "https://www.theguardian.com/world/kenya",
+      "status": 200,
+      "bytes": 437725
+    },
+    {
+      "url": "https://globalvoices.org/-/world/sub-saharan-africa/kenya/",
+      "status": 200,
+      "bytes": 227936
+    },
+    {
+      "url": "https://globalvoices.org/-/world/sub-saharan-africa/kenya/?m=202406",
+      "status": 200,
+      "bytes": 185312
+    },
+    {
+      "url": "https://globalvoices.org/2026/10/07/africas-governments-already-treat-the-internet-as-protest-infrastructure-its-courts-have-not-caught-up/",
+      "status": 200,
+      "bytes": 203516
+    },
+    {
+      "url": "https://globalvoices.org/2026/04/03/how-ai-is-used-to-influence-global-elections/",
+      "status": 200,
+      "bytes": 199282
+    },
+    {
+      "url": "https://www.theguardian.com/technology/deepfake",
+      "status": 200,
+      "bytes": 461893
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+      "status": 200,
+      "bytes": 440191
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+      "status": 200,
+      "bytes": 332628
+    },
+    {
+      "url": "https://globalvoices.org/-/world/sub-saharan-africa/kenya/?m=202407",
+      "status": 200,
+      "bytes": 188345
+    },
+    {
+      "url": "https://restofworld.org/2023/exporter-facebook-india-election-censorship/",
+      "status": 200,
+      "bytes": 57189
+    },
+    {
+      "url": "https://globalvoices.org/2024/07/02/why-news-about-kenya-is-trending-in-africa/",
+      "status": 200,
+      "bytes": 196080
+    },
+    {
+      "url": "https://www.aljazeera.com/tag/kenya/",
+      "status": 404
+    },
+    {
+      "url": "https://www.theguardian.com/world/2024/jun/26/kenya-protests-gen-z-social-media",
+      "status": 404
+    },
+    {
+      "url": "https://restofworld.org/?s=kenya",
+      "status": 200,
+      "bytes": 61977
+    },
+    {
+      "url": "https://www.aljazeera.com/where/kenya/",
+      "status": 200,
+      "bytes": 248937
+    },
+    {
+      "url": "https://restofworld.org/2024/zello-walkie-talkie-kenya-protests/",
+      "status": 200,
+      "bytes": 66024
+    }
+  ],
+  "discoveryPresent": true,
+  "selectedCount": 6,
+  "sources": [
+    {
+      "id": "nr008-zello-source",
+      "originals": {
+        "url": "https://restofworld.org/2024/zello-walkie-talkie-kenya-protests/",
+        "canonicalURL": "https://restofworld.org/2024/zello-walkie-talkie-kenya-protests/",
+        "publisher": "Rest of World",
+        "publicationDate": "2024-07-16",
+        "datePrecision": "day",
+        "dateMethod": "article:published_time",
+        "publicationOriginal": {
+          "historicalStoredDay": "2024-07-16",
+          "observedValue": "2024-07-16T10:00:00+00:00",
+          "metadata": {
+            "og:title": "Kenya’s biggest protest in recent history played out on a walkie-talkie app",
+            "article:published_time": "2024-07-16T10:00:00+00:00"
+          },
+          "structuredDates": [
+            "2024-07-16T06:00:00-04:00",
+            "2024-07-16T10:00:00+00:00"
+          ]
+        },
+        "dateAssurance": {
+          "tier": "observed-metadata",
+          "verified": true,
+          "method": "publisher metadata",
+          "observedValue": "2024-07-16T10:00:00+00:00",
+          "observedAt": "2026-10-25T17:53:59.000Z",
+          "limitation": "Publication metadata, not event occurrence or substantive change."
+        },
+        "publicationDisplay": {
+          "day": "2024-07-16",
+          "zone": "Asia/Singapore",
+          "derived": true,
+          "basis": "2024-07-16T10:00:00+00:00",
+          "label": "SGT (UTC+08:00)"
+        },
+        "updatedAt": null,
+        "eventDate": null,
+        "retrievedAt": "2026-10-25T17:53:59.000Z",
+        "workingURLCheckedAt": "2026-10-25T17:53:59.000Z",
+        "accessLevel": "metadata-and-excerpt",
+        "accessDepth": "Public selected topical paragraphs; not full-article review.",
+        "availability": "Public selected passages checked once; future availability unknown.",
+        "responseHash": "1253a4983e1713d1153d90e44b94a94433ff03d861571a67c38e170579dbdfde"
+      },
+      "headline": "Kenya’s biggest protest in recent history played out on a walkie-talkie app"
+    },
+    {
+      "id": "nr008-whatsapp-source",
+      "originals": {
+        "url": "https://restofworld.org/2024/bjp-whatsapp-modi/",
+        "canonicalURL": "https://restofworld.org/2024/bjp-whatsapp-modi/",
+        "publisher": "Rest of World",
+        "publicationDate": "2024-05-15",
+        "datePrecision": "day",
+        "dateMethod": "article:published_time",
+        "publicationOriginal": {
+          "historicalStoredDay": "2024-05-15",
+          "observedValue": "2024-05-15T10:00:00+00:00",
+          "metadata": {
+            "og:title": "How Modi and the BJP turned WhatsApp into an election-winning machine",
+            "article:published_time": "2024-05-15T10:00:00+00:00"
+          },
+          "structuredDates": [
+            "2024-05-15T06:00:00-04:00",
+            "2024-05-15T10:00:00+00:00"
+          ]
+        },
+        "dateAssurance": {
+          "tier": "observed-metadata",
+          "verified": true,
+          "method": "publisher metadata",
+          "observedValue": "2024-05-15T10:00:00+00:00",
+          "observedAt": "2026-10-25T17:52:38.000Z",
+          "limitation": "Publication metadata, not event occurrence or substantive change."
+        },
+        "publicationDisplay": {
+          "day": "2024-05-15",
+          "zone": "Asia/Singapore",
+          "derived": true,
+          "basis": "2024-05-15T10:00:00+00:00",
+          "label": "SGT (UTC+08:00)"
+        },
+        "updatedAt": null,
+        "eventDate": null,
+        "retrievedAt": "2026-10-25T17:52:38.000Z",
+        "workingURLCheckedAt": "2026-10-25T17:52:38.000Z",
+        "accessLevel": "metadata-and-excerpt",
+        "accessDepth": "Public selected lead paragraphs only; not full-article review.",
+        "availability": "Public selected passages checked once; future availability unknown.",
+        "responseHash": "17c6134746907405ee391daa16b9f0e88dcf0262aec43adfc28398dedfde57eb"
+      },
+      "headline": "Inside the BJP’s WhatsApp machine"
+    },
+    {
+      "id": "nr008-surveillance-source",
+      "originals": {
+        "url": "https://restofworld.org/2024/facial-recognition-government-protest-surveillance/",
+        "canonicalURL": "https://restofworld.org/2024/facial-recognition-government-protest-surveillance/",
+        "publisher": "Rest of World",
+        "publicationDate": "2024-03-27",
+        "datePrecision": "day",
+        "dateMethod": "article:published_time",
+        "publicationOriginal": {
+          "historicalStoredDay": "2024-03-27",
+          "observedValue": "2024-03-27T10:00:00+00:00",
+          "metadata": {
+            "og:title": "How governments are using facial recognition to crack down on protesters",
+            "article:published_time": "2024-03-27T10:00:00+00:00"
+          },
+          "structuredDates": [
+            "2024-03-27T06:00:00-04:00",
+            "2024-03-27T10:00:00+00:00"
+          ]
+        },
+        "dateAssurance": {
+          "tier": "observed-metadata",
+          "verified": true,
+          "method": "publisher metadata",
+          "observedValue": "2024-03-27T10:00:00+00:00",
+          "observedAt": "2026-10-25T17:52:39.000Z",
+          "limitation": "Publication metadata, not event occurrence or substantive change."
+        },
+        "publicationDisplay": {
+          "day": "2024-03-27",
+          "zone": "Asia/Singapore",
+          "derived": true,
+          "basis": "2024-03-27T10:00:00+00:00",
+          "label": "SGT (UTC+08:00)"
+        },
+        "updatedAt": null,
+        "eventDate": null,
+        "retrievedAt": "2026-10-25T17:52:39.000Z",
+        "workingURLCheckedAt": "2026-10-25T17:52:39.000Z",
+        "accessLevel": "metadata-and-excerpt",
+        "accessDepth": "Public selected lead paragraphs only; not full-article review.",
+        "availability": "Public selected passages checked once; future availability unknown.",
+        "responseHash": "058d2679ede47c19bc59106275c1ee8f1ed1bfeb6e72d0b5f68a0c984f0e21f5"
+      },
+      "headline": "The changing face of protest"
+    },
+    {
+      "id": "nr008-platforms-source",
+      "originals": {
+        "url": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race",
+        "canonicalURL": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race",
+        "publisher": "Al Jazeera",
+        "publicationDate": "2026-10-21",
+        "datePrecision": "day",
+        "dateMethod": "JSON-LD datePublished",
+        "publicationOriginal": {
+          "historicalStoredDay": "2026-10-21",
+          "observedValue": "2026-10-21T18:14:02Z",
+          "metadata": {
+            "og:title": "Why social media has become an election issue in Brazil’s presidential race"
+          },
+          "structuredDates": [
+            "2026-10-21T18:14:02Z"
+          ]
+        },
+        "dateAssurance": {
+          "tier": "observed-metadata",
+          "verified": true,
+          "method": "publisher metadata",
+          "observedValue": "2026-10-21T18:14:02Z",
+          "observedAt": "2026-10-25T17:52:40.000Z",
+          "limitation": "Publication metadata, not event occurrence or substantive change."
+        },
+        "publicationDisplay": {
+          "day": "2026-10-22",
+          "zone": "Asia/Singapore",
+          "derived": true,
+          "basis": "2026-10-21T18:14:02Z",
+          "label": "SGT (UTC+08:00)"
+        },
+        "updatedAt": null,
+        "eventDate": null,
+        "retrievedAt": "2026-10-25T17:52:40.000Z",
+        "workingURLCheckedAt": "2026-10-25T17:52:40.000Z",
+        "accessLevel": "metadata-and-excerpt",
+        "accessDepth": "Public selected lead paragraphs only; not full-article review.",
+        "availability": "Public selected passages checked once; future availability unknown.",
+        "responseHash": "7b564b495e34c89361c06f03f09d88484d8aedede8a5fd97694de174f0f9681a"
+      },
+      "headline": "Why social media has become an election issue in Brazil’s presidential race"
+    },
+    {
+      "id": "nr008-deepfake-source",
+      "originals": {
+        "url": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+        "canonicalURL": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
+        "publisher": "The Guardian",
+        "publicationDate": "2026-09-30",
+        "datePrecision": "day",
+        "dateMethod": "article:published_time",
+        "publicationOriginal": {
+          "historicalStoredDay": "2026-09-30",
+          "observedValue": "2026-09-30T10:00:22.000Z",
+          "metadata": {
+            "og:title": "A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?",
+            "article:modified_time": "2026-09-30T23:34:21.000Z",
+            "article:published_time": "2026-09-30T10:00:22.000Z"
+          },
+          "structuredDates": [
+            "2026-09-30T10:00:22.000Z"
+          ]
+        },
+        "dateAssurance": {
+          "tier": "observed-metadata",
+          "verified": true,
+          "method": "publisher metadata",
+          "observedValue": "2026-09-30T10:00:22.000Z",
+          "observedAt": "2026-10-25T17:53:25.000Z",
+          "limitation": "Publication metadata, not event occurrence or substantive change."
+        },
+        "publicationDisplay": {
+          "day": "2026-09-30",
+          "zone": "Asia/Singapore",
+          "derived": true,
+          "basis": "2026-09-30T10:00:22.000Z",
+          "label": "SGT (UTC+08:00)"
+        },
+        "updatedAt": "2026-09-30T23:34:21.000Z",
+        "eventDate": null,
+        "retrievedAt": "2026-10-25T17:53:25.000Z",
+        "workingURLCheckedAt": "2026-10-25T17:53:25.000Z",
+        "accessLevel": "metadata-and-excerpt",
+        "accessDepth": "Public selected lead paragraphs only; not full-article review.",
+        "availability": "Public selected passages checked once; future availability unknown.",
+        "responseHash": "b6d1cf5a3af4cbcc254250bd3a3e120026bda636f46ed06ddeb95a7c53ffd10b"
+      },
+      "headline": "A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?"
+    },
+    {
+      "id": "nr008-oversight-source",
+      "originals": {
+        "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+        "canonicalURL": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+        "publisher": "The Guardian",
+        "publicationDate": "2026-09-17",
+        "datePrecision": "day",
+        "dateMethod": "article:published_time",
+        "publicationOriginal": {
+          "historicalStoredDay": "2026-09-17",
+          "observedValue": "2026-09-17T14:43:34.000Z",
+          "metadata": {
+            "og:title": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+            "article:modified_time": "2026-09-17T18:44:34.000Z",
+            "article:published_time": "2026-09-17T14:43:34.000Z"
+          },
+          "structuredDates": [
+            "2026-09-17T14:43:34.000Z"
+          ]
+        },
+        "dateAssurance": {
+          "tier": "observed-metadata",
+          "verified": true,
+          "method": "publisher metadata",
+          "observedValue": "2026-09-17T14:43:34.000Z",
+          "observedAt": "2026-10-25T17:53:24.000Z",
+          "limitation": "Publication metadata, not event occurrence or substantive change."
+        },
+        "publicationDisplay": {
+          "day": "2026-09-17",
+          "zone": "Asia/Singapore",
+          "derived": true,
+          "basis": "2026-09-17T14:43:34.000Z",
+          "label": "SGT (UTC+08:00)"
+        },
+        "updatedAt": "2026-09-17T18:44:34.000Z",
+        "eventDate": null,
+        "retrievedAt": "2026-10-25T17:53:24.000Z",
+        "workingURLCheckedAt": "2026-10-25T17:53:24.000Z",
+        "accessLevel": "metadata-and-excerpt",
+        "accessDepth": "Public selected lead paragraphs only; not full-article review.",
+        "availability": "Public selected passages checked once; future availability unknown.",
+        "responseHash": "66c1c9ce32a720dd9c5a2d55e050f78faf17ecc9bf35e77e5bc46357362af407"
+      },
+      "headline": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies and generated output
+node_modules/
+.next/
+dist/
+coverage/
+.cache/
+*.tsbuildinfo
+*.zip
+*.log
+.DS_Store
+
+# Local evaluation state, browser profiles, receipts and recordings
+artifacts/
+submission-output/
+*.reservations.json*
+*.lock.pending
